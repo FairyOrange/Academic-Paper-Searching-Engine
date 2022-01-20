@@ -1,0 +1,1612 @@
+<dblpperson name="Caroline Jay" pid="81/5370" n="72">
+<person key="homepages/81/5370" mdate="2020-05-20">
+<author pid="81/5370">Caroline Jay</author>
+<url>https://scholar.google.com/citations?user=AR0vM2QAAAAJ</url>
+<url>https://dl.acm.org/profile/81100091861</url>
+<url>https://orcid.org/0000-0002-6080-1382</url>
+<url>https://www.wikidata.org/entity/Q56640125</url>
+</person>
+<r>
+<article key="journals/jss/EraslanKJEHRC20" mdate="2020-10-26">
+<author orcid="0000-0002-9277-8375" pid="130/2239">Sukru Eraslan</author>
+<author pid="238/0164">Kamilla Kopec-Harding</author>
+<author pid="81/5370">Caroline Jay</author>
+<author orcid="0000-0002-3711-0778" pid="e/SMEmbury">Suzanne M. Embury</author>
+<author pid="09/8006">Robert Haines</author>
+<author orcid="0000-0003-0377-6421" pid="182/7034">Julio César Cortés Ríos</author>
+<author orcid="0000-0002-5430-6924" pid="15/5257">Peter Crowther</author>
+<title>Integrating GitLab metrics into coursework consultation sessions in a software engineering course.</title>
+<pages>110613</pages>
+<year>2020</year>
+<volume>167</volume>
+<journal>J. Syst. Softw.</journal>
+<ee>https://doi.org/10.1016/j.jss.2020.110613</ee>
+<url>db/journals/jss/jss167.html#EraslanKJEHRC20</url>
+</article>
+</r>
+<r>
+<inproceedings key="conf/ACMdis/AlqahtaniJV20" mdate="2020-07-09">
+<author pid="269/2478">Deemah Alqahtani</author>
+<author pid="81/5370">Caroline Jay</author>
+<author pid="79/7015">Markel Vigo</author>
+<title>The Role of Uncertainty as a Facilitator to Reflection in Self-Tracking.</title>
+<pages>1807-1818</pages>
+<year>2020</year>
+<booktitle>Conference on Designing Interactive Systems</booktitle>
+<ee>https://doi.org/10.1145/3357236.3395448</ee>
+<crossref>conf/ACMdis/2020</crossref>
+<url>db/conf/ACMdis/ACMdis2020.html#AlqahtaniJV20</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/cep/EraslanRKEJPH20" mdate="2020-09-05">
+<author pid="130/2239">Sukru Eraslan</author>
+<author orcid="0000-0003-0377-6421" pid="182/7034">Julio César Cortés Ríos</author>
+<author pid="238/0164">Kamilla Kopec-Harding</author>
+<author pid="e/SMEmbury">Suzanne M. Embury</author>
+<author pid="81/5370">Caroline Jay</author>
+<author pid="61/7910">Christopher Page</author>
+<author pid="09/8006">Robert Haines</author>
+<title>Errors and Poor Practices of Software Engineering Students in Using Git.</title>
+<pages>8:1-8:4</pages>
+<year>2020</year>
+<booktitle>CEP</booktitle>
+<ee>https://doi.org/10.1145/3372356.3372364</ee>
+<crossref>conf/cep/2020</crossref>
+<url>db/conf/cep/cep2020.html#EraslanRKEJPH20</url>
+</inproceedings>
+</r>
+<r>
+<article publtype="informal" key="journals/corr/abs-2002-01035" mdate="2020-02-10">
+<author pid="25/3538">Jeremy Cohen</author>
+<author pid="78/3211">Daniel S. Katz</author>
+<author pid="155/2979">Michelle Barker</author>
+<author pid="74/3319">Neil Chue Hong</author>
+<author pid="09/8006">Robert Haines</author>
+<author pid="81/5370">Caroline Jay</author>
+<title>The Four Pillars of Research Software Engineering.</title>
+<year>2020</year>
+<volume>abs/2002.01035</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2002.01035</ee>
+<url>db/journals/corr/corr2002.html#abs-2002-01035</url>
+</article>
+</r>
+<r>
+<article publtype="informal" key="journals/corr/abs-2008-11785" mdate="2020-09-15">
+<author pid="232/3093">Guy Clarke Marshall</author>
+<author pid="81/5370">Caroline Jay</author>
+<author pid="47/9409">André Freitas</author>
+<title>Understanding scholarly Natural Language Processing system diagrams through application of the Richards-Engelhardt framework.</title>
+<year>2020</year>
+<volume>abs/2008.11785</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2008.11785</ee>
+<url>db/journals/corr/corr2008.html#abs-2008-11785</url>
+</article>
+</r>
+<r>
+<article publtype="informal" key="journals/corr/abs-2008-12566" mdate="2020-09-16">
+<author pid="232/3093">Guy Clarke Marshall</author>
+<author pid="47/9409">André Freitas</author>
+<author pid="81/5370">Caroline Jay</author>
+<title>How Researchers Use Diagrams in Communicating Neural Network Systems.</title>
+<year>2020</year>
+<volume>abs/2008.12566</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2008.12566</ee>
+<url>db/journals/corr/corr2008.html#abs-2008-12566</url>
+</article>
+</r>
+<r>
+<article key="journals/chb/ReaniPJ19" mdate="2020-02-18">
+<author pid="201/0175">Manuele Reani</author>
+<author pid="36/2563">Niels Peek</author>
+<author orcid="0000-0002-6080-1382" pid="81/5370">Caroline Jay</author>
+<title>How different visualizations affect human reasoning about uncertainty: An analysis of visual behaviour.</title>
+<pages>55-64</pages>
+<year>2019</year>
+<volume>92</volume>
+<journal>Comput. Hum. Behav.</journal>
+<ee>https://doi.org/10.1016/j.chb.2018.10.033</ee>
+<ee>https://www.wikidata.org/entity/Q58238988</ee>
+<url>db/journals/chb/chb92.html#ReaniPJ19</url>
+</article>
+</r>
+<r>
+<article key="journals/ijmi/YeraMAPKAWPJV19" mdate="2020-09-05">
+<author orcid="0000-0002-5800-6654" pid="193/1606">Ainhoa Yera</author>
+<author pid="17/2748">Javier Muguerza</author>
+<author pid="01/212">Olatz Arbelaitz</author>
+<author pid="58/4629">Iñigo Perona</author>
+<author orcid="0000-0001-7854-8154" pid="218/0583">Richard Keers</author>
+<author orcid="0000-0002-2958-915X" pid="218/0272">Darren Ashcroft</author>
+<author pid="77/1859-1">Richard Williams 0001</author>
+<author pid="36/2563">Niels Peek</author>
+<author orcid="0000-0002-6080-1382" pid="81/5370">Caroline Jay</author>
+<author orcid="0000-0003-4768-7623" pid="79/7015">Markel Vigo</author>
+<title>Modelling the interactive behaviour of users with a medication safety dashboard in a primary care setting.</title>
+<pages>395-403</pages>
+<year>2019</year>
+<volume>129</volume>
+<journal>Int. J. Medical Informatics</journal>
+<ee>https://doi.org/10.1016/j.ijmedinf.2019.07.014</ee>
+<ee>https://www.wikidata.org/entity/Q92840449</ee>
+<url>db/journals/ijmi/ijmi129.html#YeraMAPKAWPJV19</url>
+</article>
+</r>
+<r>
+<article key="journals/ijmi/DaviesCKMWJ19" mdate="2020-10-26">
+<author orcid="0000-0001-5737-5629" pid="184/5617">Alan Davies</author>
+<author pid="253/0039">Marisa Cunha</author>
+<author orcid="0000-0002-2960-7944" pid="238/0164">Kamilla Kopec-Harding</author>
+<author pid="168/7719">Paul D. Metcalfe</author>
+<author pid="133/7401">James Weatherall</author>
+<author orcid="0000-0002-6080-1382" pid="81/5370">Caroline Jay</author>
+<title>Biomarker data visualisation for decision making in clinical trials.</title>
+<year>2019</year>
+<volume>132</volume>
+<journal>Int. J. Medical Informatics</journal>
+<ee>https://doi.org/10.1016/j.ijmedinf.2019.104008</ee>
+<ee>https://www.wikidata.org/entity/Q90875292</ee>
+<url>db/journals/ijmi/ijmi132.html#DaviesCKMWJ19</url>
+</article>
+</r>
+<r>
+<article key="journals/ijmms/BrownAJEGH19" mdate="2020-02-21">
+<author pid="52/285">Andy Brown</author>
+<author pid="77/7018">Amaia Aizpurua</author>
+<author orcid="0000-0002-6080-1382" pid="81/5370">Caroline Jay</author>
+<author pid="76/6060">Michael Evans</author>
+<author pid="26/5128">Maxine Glancy</author>
+<author orcid="0000-0001-9301-5049" pid="h/SimonHarper">Simon Harper</author>
+<title>Contrasting delivery modes for second screen TV content - Push or pull?</title>
+<pages>15-26</pages>
+<year>2019</year>
+<volume>129</volume>
+<journal>Int. J. Hum. Comput. Stud.</journal>
+<ee type="oa">https://doi.org/10.1016/j.ijhcs.2019.03.007</ee>
+<ee>https://www.wikidata.org/entity/Q63363575</ee>
+<url>db/journals/ijmms/ijmms129.html#BrownAJEGH19</url>
+</article>
+</r>
+<r>
+<article key="journals/jamia/AlahmadiDVJ19" mdate="2020-10-26">
+<author orcid="0000-0002-4846-116X" pid="163/2623">Alaa Alahmadi</author>
+<author orcid="0000-0001-5737-5629" pid="184/5617">Alan Davies</author>
+<author orcid="0000-0003-4768-7623" pid="79/7015">Markel Vigo</author>
+<author orcid="0000-0002-6080-1382" pid="81/5370">Caroline Jay</author>
+<title>Can laypeople identify a drug-induced QT interval prolongation? A psychophysical and eye-tracking experiment examining the ability of nonexperts to interpret an ECG.</title>
+<pages>404-411</pages>
+<year>2019</year>
+<volume>26</volume>
+<journal>J. Am. Medical Informatics Assoc.</journal>
+<number>5</number>
+<ee type="oa">https://doi.org/10.1093/jamia/ocy183</ee>
+<ee>https://www.wikidata.org/entity/Q63363578</ee>
+<url>db/journals/jamia/jamia26.html#AlahmadiDVJ19</url>
+</article>
+</r>
+<r>
+<article key="journals/ws/VigoMJS19" mdate="2020-09-05">
+<author orcid="0000-0003-4768-7623" pid="79/7015">Markel Vigo</author>
+<author orcid="0000-0002-7356-1779" pid="132/5802">Nicolas Matentzoglu</author>
+<author orcid="0000-0002-6080-1382" pid="81/5370">Caroline Jay</author>
+<author pid="s/RobertStevens">Robert Stevens 0001</author>
+<title>Comparing ontology authoring workflows with Protégé: In the laboratory, in the tutorial and in the 'wild'.</title>
+<year>2019</year>
+<volume>57</volume>
+<journal>J. Web Semant.</journal>
+<ee type="oa">https://doi.org/10.1016/j.websem.2018.09.004</ee>
+<ee>https://www.wikidata.org/entity/Q58238991</ee>
+<url>db/journals/ws/ws57.html#VigoMJS19</url>
+</article>
+</r>
+<r>
+<inproceedings key="conf/chi/AlahmadiDRVJ19" mdate="2020-10-25">
+<author orcid="0000-0002-4846-116X" pid="163/2623">Alaa Alahmadi</author>
+<author orcid="0000-0001-5737-5629" pid="184/5617">Alan Davies</author>
+<author pid="239/8195">Jennifer Royle</author>
+<author orcid="0000-0003-4768-7623" pid="79/7015">Markel Vigo</author>
+<author orcid="0000-0002-6080-1382" pid="81/5370">Caroline Jay</author>
+<title>Evaluating the Impact of Pseudo-Colour and Coordinate System on the Detection of Medication-induced ECG Changes.</title>
+<pages>123</pages>
+<year>2019</year>
+<booktitle>CHI</booktitle>
+<ee>https://doi.org/10.1145/3290605.3300353</ee>
+<crossref>conf/chi/2019</crossref>
+<url>db/conf/chi/chi2019.html#AlahmadiDRVJ19</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/chi/CarltonBJK19" mdate="2019-09-25">
+<author orcid="0000-0002-2695-0480" pid="198/0587">Jonathan Carlton</author>
+<author pid="52/285">Andy Brown</author>
+<author orcid="0000-0002-6080-1382" pid="81/5370">Caroline Jay</author>
+<author pid="08/269">John Keane</author>
+<title>Inferring User Engagement from Interaction Data.</title>
+<year>2019</year>
+<booktitle>CHI Extended Abstracts</booktitle>
+<ee>https://doi.org/10.1145/3290607.3313009</ee>
+<crossref>conf/chi/2019a</crossref>
+<url>db/conf/chi/chi2019a.html#CarltonBJK19</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/icse/RiosKEPHJE19" mdate="2020-10-25">
+<author orcid="0000-0003-0377-6421" pid="182/7034">Julio César Cortés Ríos</author>
+<author orcid="0000-0002-2960-7944" pid="238/0164">Kamilla Kopec-Harding</author>
+<author pid="130/2239">Sukru Eraslan</author>
+<author pid="61/7910">Christopher Page</author>
+<author pid="09/8006">Robert Haines</author>
+<author pid="81/5370">Caroline Jay</author>
+<author pid="e/SMEmbury">Suzanne M. Embury</author>
+<title>A methodology for using GitLab for software engineering learning analytics.</title>
+<pages>3-6</pages>
+<year>2019</year>
+<booktitle>CHASE@ICSE</booktitle>
+<ee>https://doi.org/10.1109/CHASE.2019.00009</ee>
+<ee>https://dl.acm.org/citation.cfm?id=3338720</ee>
+<crossref>conf/icse/2019chase</crossref>
+<url>db/conf/icse/chase2019.html#RiosKEPHJE19</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/icse/SouzaHVJ19" mdate="2020-10-25">
+<author pid="237/9969">Mario Rosado de Souza</author>
+<author orcid="0000-0002-9538-7919" pid="09/8006">Robert Haines</author>
+<author orcid="0000-0003-4768-7623" pid="79/7015">Markel Vigo</author>
+<author orcid="0000-0002-6080-1382" pid="81/5370">Caroline Jay</author>
+<title>What makes research software sustainable?: an interview study with research software engineers.</title>
+<pages>135-138</pages>
+<year>2019</year>
+<booktitle>CHASE@ICSE</booktitle>
+<ee>https://doi.org/10.1109/CHASE.2019.00039</ee>
+<ee>https://dl.acm.org/citation.cfm?id=3338750</ee>
+<crossref>conf/icse/2019chase</crossref>
+<url>db/conf/icse/chase2019.html#SouzaHVJ19</url>
+</inproceedings>
+</r>
+<r>
+<incollection key="series/hci/JayH19" mdate="2019-06-05">
+<author pid="81/5370">Caroline Jay</author>
+<author pid="09/8006">Robert Haines</author>
+<title>Reproducible and Sustainable Research Software.</title>
+<pages>211-221</pages>
+<year>2019</year>
+<booktitle>Web Accessibility (2nd Ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4471-7440-0_12</ee>
+<crossref>series/hci/YesiladaH19</crossref>
+<url>db/series/hci/YesiladaH19.html#JayH19</url>
+</incollection>
+</r>
+<r>
+<article publtype="informal" key="journals/corr/abs-1903-06039" mdate="2019-03-31">
+<author pid="237/9969">Mario Rosado de Souza</author>
+<author pid="09/8006">Robert Haines</author>
+<author pid="79/7015">Markel Vigo</author>
+<author pid="81/5370">Caroline Jay</author>
+<title>What Makes Research Software Sustainable? An Interview Study With Research Software Engineers.</title>
+<year>2019</year>
+<volume>abs/1903.06039</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1903.06039</ee>
+<url>db/journals/corr/corr1903.html#abs-1903-06039</url>
+</article>
+</r>
+<r>
+<article publtype="informal publication" key="journals/corr/abs-1903-06772" mdate="2019-04-01">
+<author pid="182/7034">Julio César Cortés Ríos</author>
+<author pid="238/0164">Kamilla Kopec-Harding</author>
+<author pid="130/2239">Sukru Eraslan</author>
+<author pid="61/7910">Christopher Page</author>
+<author pid="09/8006">Robert Haines</author>
+<author pid="81/5370">Caroline Jay</author>
+<author pid="e/SMEmbury">Suzanne M. Embury</author>
+<title>A Methodology for Using GitLab for Software Engineering Learning Analytics.</title>
+<year>2019</year>
+<volume>abs/1903.06772</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1903.06772</ee>
+<url>db/journals/corr/corr1903.html#abs-1903-06772</url>
+</article>
+</r>
+<r>
+<article publtype="informal" key="journals/corr/abs-1910-09902" mdate="2020-07-03">
+<author pid="81/5370">Caroline Jay</author>
+<author pid="09/8006">Robert Haines</author>
+<author pid="78/3211">Daniel S. Katz</author>
+<author pid="c/JeffreyCCarver">Jeffrey C. Carver</author>
+<author pid="40/4876">James C. Phillips</author>
+<author pid="79/6344">Anshu Dubey</author>
+<author pid="75/8291">Sandra Gesing</author>
+<author pid="125/2149">Matthew J. Turk</author>
+<author pid="80/4275">Hui Wan</author>
+<author pid="89/1323">Hubertus Van Dam</author>
+<author pid="11/2108">James Howison</author>
+<author pid="165/5189">Vitali Morozov</author>
+<author pid="81/8576">Steven R. Brandt</author>
+<title>Theory-Software Translation: Research Challenges and Future Directions.</title>
+<year>2019</year>
+<volume>abs/1910.09902</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1910.09902</ee>
+<url>db/journals/corr/corr1910.html#abs-1910-09902</url>
+</article>
+</r>
+<r>
+<article key="journals/ijmms/ReaniDPJ18" mdate="2020-02-21">
+<author pid="201/0175">Manuele Reani</author>
+<author orcid="0000-0001-5737-5629" pid="184/5617">Alan Davies</author>
+<author pid="36/2563">Niels Peek</author>
+<author orcid="0000-0002-6080-1382" pid="81/5370">Caroline Jay</author>
+<title>How do people use information presentation to make decisions in Bayesian reasoning tasks?</title>
+<pages>62-77</pages>
+<year>2018</year>
+<volume>111</volume>
+<journal>Int. J. Hum. Comput. Stud.</journal>
+<ee>https://doi.org/10.1016/j.ijhcs.2017.11.004</ee>
+<ee>https://www.wikidata.org/entity/Q58238996</ee>
+<url>db/journals/ijmms/ijmms111.html#ReaniDPJ18</url>
+</article>
+</r>
+<r>
+<article key="journals/jamia/VigoHVJBC18" mdate="2020-09-05">
+<author orcid="0000-0003-4768-7623" pid="79/7015">Markel Vigo</author>
+<author orcid="0000-0002-5888-422X" pid="213/0662">Lamiece Hassan</author>
+<author pid="213/0519">William Vance</author>
+<author orcid="0000-0002-6080-1382" pid="81/5370">Caroline Jay</author>
+<author pid="13/3147">Andrew Brass</author>
+<author orcid="0000-0002-3047-5475" pid="213/0676">Sheena Cruickshank</author>
+<title>Britain Breathing: using the experience sampling method to collect the seasonal allergy symptoms of a country.</title>
+<pages>88-92</pages>
+<year>2018</year>
+<volume>25</volume>
+<journal>J. Am. Medical Informatics Assoc.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1093/jamia/ocx148</ee>
+<ee>https://www.wikidata.org/entity/Q47309954</ee>
+<url>db/journals/jamia/jamia25.html#VigoHVJBC18</url>
+</article>
+</r>
+<r>
+<article key="journals/pacmhci/WuSKRJM18" mdate="2020-08-25">
+<author pid="49/3584">Ziming Wu</author>
+<author orcid="0000-0003-4689-986X" pid="195/7927">Zhida Sun</author>
+<author pid="12/6243">Taewook Kim</author>
+<author pid="201/0175">Manuele Reani</author>
+<author orcid="0000-0002-6080-1382" pid="81/5370">Caroline Jay</author>
+<author pid="06/4530">Xiaojuan Ma</author>
+<title>Mediating Color Filter Exploration with Color Theme Semantics Derived from Social Curation Data.</title>
+<pages>187:1-187:24</pages>
+<year>2018</year>
+<volume>2</volume>
+<journal>Proc. ACM Hum. Comput. Interact.</journal>
+<number>CSCW</number>
+<ee>https://doi.org/10.1145/3274456</ee>
+<ee>https://www.wikidata.org/entity/Q63363579</ee>
+<url>db/journals/pacmhci/pacmhci2.html#WuSKRJM18</url>
+</article>
+</r>
+<r>
+<article key="journals/ws/MatentzogluVJS18" mdate="2020-09-05">
+<author orcid="0000-0002-7356-1779" pid="132/5802">Nicolas Matentzoglu</author>
+<author orcid="0000-0003-4768-7623" pid="79/7015">Markel Vigo</author>
+<author orcid="0000-0002-6080-1382" pid="81/5370">Caroline Jay</author>
+<author pid="s/RobertStevens">Robert Stevens 0001</author>
+<title>Inference Inspector: Improving the verification of ontology authoring actions.</title>
+<pages>1-15</pages>
+<year>2018</year>
+<volume>49</volume>
+<journal>J. Web Semant.</journal>
+<ee type="oa">https://doi.org/10.1016/j.websem.2017.09.004</ee>
+<ee>https://www.wikidata.org/entity/Q58239000</ee>
+<url>db/journals/ws/ws49.html#MatentzogluVJS18</url>
+</article>
+</r>
+<r>
+<inproceedings key="conf/chi/VegaCPKSJVH18" mdate="2020-09-05">
+<author orcid="0000-0002-0140-3392" pid="178/3568">Julio Vega</author>
+<author orcid="0000-0003-3635-863X" pid="184/3339">Samuel Couth</author>
+<author orcid="0000-0003-4975-7787" pid="55/7275">Ellen Poliakoff</author>
+<author pid="184/3463">Sonja Kotz</author>
+<author pid="217/9430">Matthew Sullivan</author>
+<author orcid="0000-0002-6080-1382" pid="81/5370">Caroline Jay</author>
+<author orcid="0000-0003-4768-7623" pid="79/7015">Markel Vigo</author>
+<author pid="h/SimonHarper">Simon Harper</author>
+<title>Back to Analogue: Self-Reporting for Parkinson's Disease.</title>
+<pages>74</pages>
+<year>2018</year>
+<booktitle>CHI</booktitle>
+<ee>https://doi.org/10.1145/3173574.3173648</ee>
+<crossref>conf/chi/2018</crossref>
+<url>db/conf/chi/chi2018.html#VegaCPKSJVH18</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/ehealth/YeraMAPKAWPJV18" mdate="2020-09-05">
+<author orcid="0000-0002-5800-6654" pid="193/1606">Ainhoa Yera</author>
+<author pid="17/2748">Javier Muguerza</author>
+<author pid="01/212">Olatz Arbelaitz</author>
+<author pid="58/4629">Iñigo Perona</author>
+<author orcid="0000-0001-7854-8154" pid="218/0583">Richard Keers</author>
+<author orcid="0000-0002-2958-915X" pid="218/0272">Darren Ashcroft</author>
+<author pid="77/1859-1">Richard Williams 0001</author>
+<author pid="36/2563">Niels Peek</author>
+<author orcid="0000-0002-6080-1382" pid="81/5370">Caroline Jay</author>
+<author orcid="0000-0003-4768-7623" pid="79/7015">Markel Vigo</author>
+<title>Inferring Visual Behaviour from User Interaction Data on a Medical Dashboard.</title>
+<pages>55-59</pages>
+<year>2018</year>
+<booktitle>DH</booktitle>
+<ee>https://doi.org/10.1145/3194658.3194676</ee>
+<crossref>conf/ehealth/2018</crossref>
+<url>db/conf/ehealth/dh2018.html#YeraMAPKAWPJV18</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/etra/ReaniPJ18" mdate="2019-10-19">
+<author pid="201/0175">Manuele Reani</author>
+<author pid="36/2563">Niels Peek</author>
+<author orcid="0000-0002-6080-1382" pid="81/5370">Caroline Jay</author>
+<title>An investigation of the effects of n-gram length in scanpath analysis for eye-tracking research.</title>
+<pages>1:1-1:8</pages>
+<year>2018</year>
+<booktitle>ETRA</booktitle>
+<ee>https://doi.org/10.1145/3204493.3204527</ee>
+<crossref>conf/etra/2018</crossref>
+<url>db/conf/etra/etra2018.html#ReaniPJ18</url>
+</inproceedings>
+</r>
+<r>
+<proceedings key="conf/icse/2018se4science" mdate="2019-10-16">
+<editor pid="c/JeffreyCCarver">Jeffrey C. Carver</editor>
+<editor pid="74/3319">Neil P. Chue Hong</editor>
+<editor pid="81/5370">Caroline Jay</editor>
+<title>Proceedings of the International Workshop on Software Engineering for Science, SE@Science@ICSE 2018, Gothenburg, Sweden, June 2, 2018</title>
+<publisher>ACM</publisher>
+<booktitle>SE4Science@ICSE</booktitle>
+<year>2018</year>
+<isbn>978-1-4503-5748-7</isbn>
+<ee>http://dl.acm.org/citation.cfm?id=3194747</ee>
+<ee>https://ieeexplore.ieee.org/xpl/conhome/8445671/proceeding</ee>
+<url>db/conf/icse/se4science2018.html</url>
+</proceedings>
+</r>
+<r>
+<article publtype="informal" key="journals/corr/abs-1807-07387" mdate="2018-08-13">
+<author pid="78/3211">Daniel S. Katz</author>
+<author pid="154/4420">Stephan Druskat</author>
+<author pid="09/8006">Robert Haines</author>
+<author pid="81/5370">Caroline Jay</author>
+<author pid="52/8910">Alexander Struck</author>
+<title>The State of Sustainable Research Software: Results from the Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE5.1).</title>
+<year>2018</year>
+<volume>abs/1807.07387</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1807.07387</ee>
+<url>db/journals/corr/corr1807.html#abs-1807-07387</url>
+</article>
+</r>
+<r>
+<article publtype="informal" key="journals/peerjpre/SufiJ18" mdate="2020-07-09">
+<author orcid="0000-0001-6390-2616" pid="83/4297">Shoaib Sufi</author>
+<author pid="81/5370">Caroline Jay</author>
+<title>Raising the status of software in research: A survey-based evaluation of the Software Sustainability Institute Fellowship Programme.</title>
+<pages>e26849</pages>
+<year>2018</year>
+<volume>6</volume>
+<journal>PeerJ Prepr.</journal>
+<ee type="oa">https://doi.org/10.7287/peerj.preprints.26849v1</ee>
+<url>db/journals/peerjpre/peerjpre6.html#SufiJ18</url>
+</article>
+</r>
+<r>
+<article key="journals/dagstuhl-manifestos/AllenABCCCCCGGG17" mdate="2020-10-26">
+<author pid="123/4491">Alice Allen</author>
+<author pid="66/5226">Cecilia R. Aragon</author>
+<author pid="22/479">Christoph Becker</author>
+<author pid="c/JeffreyCCarver">Jeffrey C. Carver</author>
+<author pid="150/3624">Andrei Chis</author>
+<author pid="24/757">Benoît Combemale</author>
+<author pid="200/2648">Mike Croucher</author>
+<author pid="97/6932">Kevin Crowston</author>
+<author pid="36/10486">Daniel Garijo</author>
+<author pid="21/2267">Ashish Gehani</author>
+<author pid="g/CaroleAGoble">Carole A. Goble</author>
+<author orcid="0000-0002-9538-7919" pid="09/8006">Robert Haines</author>
+<author pid="h/RobertHirschfeld">Robert Hirschfeld</author>
+<author pid="11/2108">James Howison</author>
+<author pid="168/8168">Kathryn D. Huff</author>
+<author orcid="0000-0002-6080-1382" pid="81/5370">Caroline Jay</author>
+<author pid="78/3211">Daniel S. Katz</author>
+<author pid="k/ClaudeKirchner">Claude Kirchner</author>
+<author pid="126/1831">Katie Kuksenok</author>
+<author pid="l/RalfLammel">Ralf Lämmel</author>
+<author pid="n/ONierstrasz">Oscar Nierstrasz</author>
+<author pid="125/2149">Matthew J. Turk</author>
+<author pid="n/RvNieuwpoort">Rob van Nieuwpoort</author>
+<author pid="149/0350">Matthew Vaughn</author>
+<author pid="55/5625">Jurgen J. Vinju</author>
+<title>Engineering Academic Software (Dagstuhl Perspectives Workshop 16252).</title>
+<pages>1-20</pages>
+<year>2017</year>
+<volume>6</volume>
+<journal>Dagstuhl Manifestos</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.4230/DagMan.6.1.1</ee>
+<ee>https://www.wikidata.org/entity/Q33114300</ee>
+<url>db/journals/dagstuhl-manifestos/dagstuhl-manifestos6.html#AllenABCCCCCGGG17</url>
+</article>
+</r>
+<r>
+<inproceedings key="conf/assets/VegaJVH17" mdate="2020-09-05">
+<author orcid="0000-0002-0140-3392" pid="178/3568">Julio Vega</author>
+<author orcid="0000-0002-6080-1382" pid="81/5370">Caroline Jay</author>
+<author orcid="0000-0003-4768-7623" pid="79/7015">Markel Vigo</author>
+<author pid="h/SimonHarper">Simon Harper</author>
+<title>Unobtrusive Monitoring of Parkinson's Disease Based on Digital Biomarkers of Human Behaviour.</title>
+<pages>351-352</pages>
+<year>2017</year>
+<booktitle>ASSETS</booktitle>
+<ee>https://doi.org/10.1145/3132525.3134782</ee>
+<ee>https://www.wikidata.org/entity/Q63363583</ee>
+<crossref>conf/assets/2017</crossref>
+<url>db/conf/assets/assets2017.html#VegaJVH17</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/chi/JayDGV16" mdate="2019-11-28">
+<author pid="81/5370">Caroline Jay</author>
+<author pid="179/4677">Robert Dunne</author>
+<author pid="179/4886">David Gelsthorpe</author>
+<author orcid="0000-0003-4768-7623" pid="79/7015">Markel Vigo</author>
+<title>To Sign Up, or not to Sign Up?: Maximizing Citizen Science Contribution Rates through Optional Registration.</title>
+<pages>1827-1832</pages>
+<year>2016</year>
+<booktitle>CHI</booktitle>
+<ee>https://doi.org/10.1145/2858036.2858319</ee>
+<ee>https://www.wikidata.org/entity/Q73175162</ee>
+<crossref>conf/chi/2016</crossref>
+<url>db/conf/chi/chi2016.html#JayDGV16</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/chi/ApaolazaHABEJHJ16" mdate="2020-10-25">
+<author pid="130/2225">Aitor Apaolaza</author>
+<author orcid="0000-0002-9538-7919" pid="09/8006">Robert Haines</author>
+<author pid="77/7018">Amaia Aizpurua</author>
+<author pid="52/285">Andy Brown</author>
+<author pid="76/6060">Michael Evans</author>
+<author pid="179/4607">Stephen Jolly</author>
+<author pid="h/SimonHarper">Simon Harper</author>
+<author orcid="0000-0002-6080-1382" pid="81/5370">Caroline Jay</author>
+<title>ABC: Using Object Tracking to Automate Behavioural Coding.</title>
+<pages>2766-2773</pages>
+<year>2016</year>
+<booktitle>CHI Extended Abstracts</booktitle>
+<ee>https://doi.org/10.1145/2851581.2892483</ee>
+<crossref>conf/chi/2016a</crossref>
+<url>db/conf/chi/chi2016a.html#ApaolazaHABEJHJ16</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/ekaw/MatentzogluVJS16" mdate="2020-09-05">
+<author pid="132/5802">Nicolas Matentzoglu</author>
+<author orcid="0000-0003-4768-7623" pid="79/7015">Markel Vigo</author>
+<author orcid="0000-0002-6080-1382" pid="81/5370">Caroline Jay</author>
+<author pid="s/RobertStevens">Robert Stevens 0001</author>
+<title>Making Entailment Set Changes Explicit Improves the Understanding of Consequences of Ontology Authoring Actions.</title>
+<pages>432-446</pages>
+<year>2016</year>
+<booktitle>EKAW</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-49004-5_28</ee>
+<crossref>conf/ekaw/2016</crossref>
+<url>db/conf/ekaw/ekaw2016.html#MatentzogluVJS16</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/etvis/DaviesVHJ16" mdate="2020-09-05">
+<author pid="184/5617">Alan Davies</author>
+<author orcid="0000-0003-4768-7623" pid="79/7015">Markel Vigo</author>
+<author pid="h/SimonHarper">Simon Harper</author>
+<author pid="81/5370">Caroline Jay</author>
+<title>The visualisation of eye-tracking scanpaths: what can they tell us about how clinicians view electrocardiograms?</title>
+<pages>79-83</pages>
+<year>2016</year>
+<booktitle>ETVIS</booktitle>
+<ee>https://doi.org/10.1109/ETVIS.2016.7851172</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ETVIS.2016.7851172</ee>
+<crossref>conf/etvis/2016</crossref>
+<url>db/conf/etvis/etvis2016.html#DaviesVHJ16</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/rweb/PanMJVZ16" mdate="2020-09-05">
+<author pid="59/6490">Jeff Z. Pan</author>
+<author pid="132/5802">Nicolas Matentzoglu</author>
+<author pid="81/5370">Caroline Jay</author>
+<author orcid="0000-0003-4768-7623" pid="79/7015">Markel Vigo</author>
+<author pid="96/11">Yuting Zhao</author>
+<title>Understanding Author Intentions: Test Driven Knowledge Graph Construction.</title>
+<pages>1-26</pages>
+<year>2016</year>
+<booktitle>Reasoning Web</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-49493-7_1</ee>
+<crossref>conf/rweb/2016</crossref>
+<url>db/conf/rweb/rweb2016.html#PanMJVZ16</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/w4a/MuellerDHJT16" mdate="2019-10-19">
+<author orcid="0000-0002-4939-7112" pid="38/7903">Julia Mueller</author>
+<author orcid="0000-0001-5737-5629" pid="184/5617">Alan Davies</author>
+<author pid="h/SimonHarper">Simon Harper</author>
+<author orcid="0000-0002-6080-1382" pid="81/5370">Caroline Jay</author>
+<author orcid="0000-0001-6645-4505" pid="08/6849">Chris Todd</author>
+<title>Widening access to online health education for lung cancer: a feasibility study.</title>
+<pages>35:1-35:4</pages>
+<year>2016</year>
+<booktitle>W4A</booktitle>
+<ee>https://doi.org/10.1145/2899475.2899495</ee>
+<ee>https://www.wikidata.org/entity/Q58288861</ee>
+<crossref>conf/w4a/2016</crossref>
+<url>db/conf/w4a/w4a2016.html#MuellerDHJT16</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/bcshci/GarzaGBJ15" mdate="2018-11-14">
+<author orcid="0000-0003-3484-6875" pid="165/0431">Kristian Garza</author>
+<author pid="g/CaroleAGoble">Carole A. Goble</author>
+<author pid="18/2430">John M. Brooke</author>
+<author orcid="0000-0002-6080-1382" pid="81/5370">Caroline Jay</author>
+<title>Framing the community data system interface.</title>
+<pages>269-270</pages>
+<year>2015</year>
+<booktitle>BCS HCI</booktitle>
+<ee>https://doi.org/10.1145/2783446.2783605</ee>
+<ee>https://www.wikidata.org/entity/Q56945861</ee>
+<crossref>conf/bcshci/2015</crossref>
+<url>db/conf/bcshci/bcshci2015.html#GarzaGBJ15</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/chi/EvansKJ15" mdate="2018-11-06">
+<author pid="76/6060">Michael Evans</author>
+<author pid="71/9917">Lianne Kerlin</author>
+<author pid="81/5370">Caroline Jay</author>
+<title>"I Woke Up as a Newspaper": Designing-in Interaction Analytics.</title>
+<pages>477-488</pages>
+<year>2015</year>
+<booktitle>CHI Extended Abstracts</booktitle>
+<ee>https://doi.org/10.1145/2702613.2732496</ee>
+<crossref>conf/chi/2015a</crossref>
+<url>db/conf/chi/chi2015a.html#EvansKJ15</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/chi/VigoJS15" mdate="2019-01-21">
+<author orcid="0000-0003-4768-7623" pid="79/7015">Markel Vigo</author>
+<author orcid="0000-0002-6080-1382" pid="81/5370">Caroline Jay</author>
+<author pid="s/RobertStevens">Robert Stevens 0001</author>
+<title>Constructing Conceptual Knowledge Artefacts: Activity Patterns in the Ontology Authoring Process.</title>
+<pages>3385-3394</pages>
+<year>2015</year>
+<booktitle>CHI</booktitle>
+<ee>https://doi.org/10.1145/2702123.2702495</ee>
+<crossref>conf/chi/2015</crossref>
+<url>db/conf/chi/chi2015.html#VigoJS15</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/ht/ApaolazaHJ15" mdate="2018-11-06">
+<author pid="130/2225">Aitor Apaolaza</author>
+<author pid="h/SimonHarper">Simon Harper</author>
+<author orcid="0000-0002-6080-1382" pid="81/5370">Caroline Jay</author>
+<title>Longitudinal Analysis of Low-Level Web Interaction through Micro Behaviours.</title>
+<pages>337-340</pages>
+<year>2015</year>
+<booktitle>HT</booktitle>
+<ee>https://doi.org/10.1145/2700171.2804453</ee>
+<crossref>conf/ht/2015</crossref>
+<url>db/conf/ht/ht2015.html#ApaolazaHJ15</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/tvx/BrownJCSBAJ15" mdate="2018-11-06">
+<author pid="52/285">Andy Brown</author>
+<author pid="144/5568">Rhia Jones</author>
+<author pid="163/5562">Mike Crabb</author>
+<author pid="00/573">James Sandford</author>
+<author pid="163/5564">Matthew Brooks</author>
+<author pid="162/9875">Mike Armstrong</author>
+<author pid="81/5370">Caroline Jay</author>
+<title>Dynamic Subtitles: The User Experience.</title>
+<pages>103-112</pages>
+<year>2015</year>
+<booktitle>TVX</booktitle>
+<ee>https://doi.org/10.1145/2745197.2745204</ee>
+<crossref>conf/tvx/2015</crossref>
+<url>db/conf/tvx/tvx2015.html#BrownJCSBAJ15</url>
+</inproceedings>
+</r>
+<r>
+<article key="journals/biomedsem/HastingsBCJS14" mdate="2020-08-13">
+<author orcid="0000-0002-3469-4923" pid="85/5079">Janna Hastings</author>
+<author orcid="0000-0002-0389-7058" pid="13/3147">Andy Brass</author>
+<author orcid="0000-0002-3008-4618" pid="151/8039">Colin Caine</author>
+<author orcid="0000-0002-6080-1382" pid="81/5370">Caroline Jay</author>
+<author pid="s/RobertStevens">Robert Stevens 0001</author>
+<title>Evaluating the Emotion Ontology through use in the self-reporting of emotional responses at an academic conference.</title>
+<pages>38</pages>
+<year>2014</year>
+<volume>5</volume>
+<journal>J. Biomed. Semant.</journal>
+<ee type="oa">https://doi.org/10.1186/2041-1480-5-38</ee>
+<ee>https://www.wikidata.org/entity/Q38438732</ee>
+<url>db/journals/biomedsem/biomedsem5.html#HastingsBCJS14</url>
+</article>
+</r>
+<r>
+<article key="journals/ijmms/VigoBJS14" mdate="2020-02-21">
+<author orcid="0000-0003-4768-7623" pid="79/7015">Markel Vigo</author>
+<author orcid="0000-0002-7810-709X" pid="54/8838">Samantha Bail</author>
+<author orcid="0000-0002-6080-1382" pid="81/5370">Caroline Jay</author>
+<author pid="s/RobertStevens">Robert D. Stevens</author>
+<title>Overcoming the pitfalls of ontology authoring: Strategies and implications for tool design.</title>
+<pages>835-845</pages>
+<year>2014</year>
+<volume>72</volume>
+<journal>Int. J. Hum. Comput. Stud.</journal>
+<number>12</number>
+<ee type="oa">https://doi.org/10.1016/j.ijhcs.2014.07.005</ee>
+<ee>https://www.wikidata.org/entity/Q58239011</ee>
+<url>db/journals/ijmms/ijmms72.html#VigoBJS14</url>
+</article>
+</r>
+<r>
+<article key="journals/sigweb/BrownJ14" mdate="2020-07-16">
+<author pid="52/285">Andy Brown</author>
+<author pid="81/5370">Caroline Jay</author>
+<title>ACM-W Athena lectures.</title>
+<pages>2:1</pages>
+<year>2014</year>
+<volume>2014</volume>
+<journal>SIGWEB Newsl.</journal>
+<number>Winter</number>
+<ee>https://doi.org/10.1145/2559858.2559860</ee>
+<url>db/journals/sigweb/sigweb2014.html#BrownJ14</url>
+</article>
+</r>
+<r>
+<inproceedings key="conf/chi/BrownEJGJH14" mdate="2018-11-06">
+<author pid="52/285">Andy Brown</author>
+<author pid="76/6060">Michael Evans</author>
+<author orcid="0000-0002-6080-1382" pid="81/5370">Caroline Jay</author>
+<author pid="26/5128">Maxine Glancy</author>
+<author pid="144/5568">Rhianne Jones</author>
+<author pid="h/SimonHarper">Simon Harper</author>
+<title>HCI over multiple screens.</title>
+<pages>665-674</pages>
+<year>2014</year>
+<booktitle>CHI Extended Abstracts</booktitle>
+<ee>https://doi.org/10.1145/2559206.2578869</ee>
+<crossref>conf/chi/2014a</crossref>
+<url>db/conf/chi/chi2014a.html#BrownEJGJH14</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/chi/VigoJS14" mdate="2019-01-21">
+<author orcid="0000-0003-4768-7623" pid="79/7015">Markel Vigo</author>
+<author pid="81/5370">Caroline Jay</author>
+<author pid="s/RobertStevens">Robert Stevens 0001</author>
+<title>Design insights for the next wave ontology authoring tools.</title>
+<pages>1555-1558</pages>
+<year>2014</year>
+<booktitle>CHI</booktitle>
+<ee>https://doi.org/10.1145/2556288.2557284</ee>
+<crossref>conf/chi/2014</crossref>
+<url>db/conf/chi/chi2014.html#VigoJS14</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/esws/VigoJS14" mdate="2019-10-31">
+<author orcid="0000-0003-4768-7623" pid="79/7015">Markel Vigo</author>
+<author pid="81/5370">Caroline Jay</author>
+<author pid="s/RobertStevens">Robert Stevens 0001</author>
+<title>Protégé4US: Harvesting Ontology Authoring Data with Protégé.</title>
+<pages>86-99</pages>
+<year>2014</year>
+<booktitle>ESWC (Satellite Events)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-319-11955-7_8</ee>
+<crossref>conf/esws/2014s</crossref>
+<url>db/conf/esws/eswc2014s.html#VigoJS14</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/re/VentersJLGHWADX14" mdate="2019-05-28">
+<author pid="69/5899">Colin C. Venters</author>
+<author pid="81/5370">Caroline Jay</author>
+<author pid="94/7339">Lydia Lau</author>
+<author pid="99/9858">Michael K. Griffiths</author>
+<author pid="56/1052">Violeta Holmes</author>
+<author pid="151/4933">Rupert R. Ward</author>
+<author pid="a/JimAustin">Jim Austin</author>
+<author pid="78/10837">Charlie Dibsdale</author>
+<author pid="37/5126-7">Jie Xu 0007</author>
+<title>Software Sustainability: The Modern Tower of Babel.</title>
+<pages>7-12</pages>
+<year>2014</year>
+<booktitle>RE4SuSy@RE</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1216/paper2.pdf</ee>
+<crossref>conf/re/2014re4susy</crossref>
+<url>db/conf/re/re4susy2014.html#VentersJLGHWADX14</url>
+</inproceedings>
+</r>
+<r>
+<article key="journals/behaviourIT/HarperJMQ13" mdate="2020-03-12">
+<author orcid="0000-0001-9301-5049" pid="h/SimonHarper">Simon Harper</author>
+<author orcid="0000-0002-6080-1382" pid="81/5370">Caroline Jay</author>
+<author pid="00/4263">Eleni Michailidou</author>
+<author pid="122/4878">Huangmao Quan</author>
+<title>Analysing the visual complexity of web pages using document structure.</title>
+<pages>491-502</pages>
+<year>2013</year>
+<volume>32</volume>
+<journal>Behav. Inf. Technol.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1080/0144929X.2012.726647</ee>
+<ee>https://www.wikidata.org/entity/Q56893862</ee>
+<url>db/journals/behaviourIT/behaviourIT32.html#HarperJMQ13</url>
+</article>
+</r>
+<r>
+<article key="journals/tochi/JayBH13" mdate="2020-04-25">
+<author orcid="0000-0002-6080-1382" pid="81/5370">Caroline Jay</author>
+<author pid="52/285">Andy Brown</author>
+<author pid="h/SimonHarper">Simon Harper</author>
+<title>Predicting whether users view dynamic content on the world wide web.</title>
+<pages>9:1-9:33</pages>
+<year>2013</year>
+<volume>20</volume>
+<journal>ACM Trans. Comput. Hum. Interact.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/2463579.2463580</ee>
+<ee>https://www.wikidata.org/entity/Q58239017</ee>
+<url>db/journals/tochi/tochi20.html#JayBH13</url>
+</article>
+</r>
+<r>
+<inproceedings key="conf/iwcs/ParviziJMPRSD13" mdate="2019-09-11">
+<author pid="145/1129">Artemis Parvizi</author>
+<author pid="81/5370">Caroline Jay</author>
+<author pid="72/2459">Christopher S. Mellish</author>
+<author pid="59/6490">Jeff Z. Pan</author>
+<author pid="69/4334-1">Yuan Ren 0001</author>
+<author pid="s/RobertStevens">Robert Stevens 0001</author>
+<author pid="30/4465">Kees van Deemter</author>
+<title>A Pilot Experiment in Knowledge Authoring as Dialogue.</title>
+<pages>376-382</pages>
+<year>2013</year>
+<booktitle>IWCS</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/W13-0212/</ee>
+<crossref>conf/iwcs/2013</crossref>
+<url>db/conf/iwcs/iwcs2013.html#ParviziJMPRSD13</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/w4a/ApaolazaHJ13" mdate="2018-11-06">
+<author pid="130/2225">Aitor Apaolaza</author>
+<author pid="h/SimonHarper">Simon Harper</author>
+<author pid="81/5370">Caroline Jay</author>
+<title>Understanding users in the wild.</title>
+<pages>13:1-13:4</pages>
+<year>2013</year>
+<booktitle>W4A</booktitle>
+<ee>https://doi.org/10.1145/2461121.2461133</ee>
+<crossref>conf/w4a/2013</crossref>
+<url>db/conf/w4a/w4a2013.html#ApaolazaHJ13</url>
+</inproceedings>
+</r>
+<r>
+<article key="journals/ijmms/BrownJH12" mdate="2020-02-21">
+<author pid="52/285">Andy Brown</author>
+<author orcid="0000-0002-6080-1382" pid="81/5370">Caroline Jay</author>
+<author orcid="0000-0001-9301-5049" pid="h/SimonHarper">Simon Harper</author>
+<title>Tailored presentation of dynamic web content for audio browsers.</title>
+<pages>179-196</pages>
+<year>2012</year>
+<volume>70</volume>
+<journal>Int. J. Hum. Comput. Stud.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1016/j.ijhcs.2011.11.001</ee>
+<ee>https://www.wikidata.org/entity/Q58239024</ee>
+<url>db/journals/ijmms/ijmms70.html#BrownJH12</url>
+</article>
+</r>
+<r>
+<article key="journals/uais/BrownJCH12" mdate="2020-05-11">
+<author pid="52/285">Andy Brown</author>
+<author orcid="0000-0002-6080-1382" pid="81/5370">Caroline Jay</author>
+<author orcid="0000-0001-5529-6214" pid="81/10713">Alex Q. Chen</author>
+<author orcid="0000-0001-9301-5049" pid="h/SimonHarper">Simon Harper</author>
+<title>The uptake of Web 2.0 technologies, and its impact on visually disabled users.</title>
+<pages>185-199</pages>
+<year>2012</year>
+<volume>11</volume>
+<journal>Univers. Access Inf. Soc.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10209-011-0251-y</ee>
+<ee>https://www.wikidata.org/entity/Q58239020</ee>
+<url>db/journals/uais/uais11.html#BrownJCH12</url>
+</article>
+</r>
+<r>
+<article key="journals/vc/SherstyukJT11" mdate="2020-06-04">
+<author pid="24/2032">Andrei Sherstyuk</author>
+<author orcid="0000-0002-6080-1382" pid="81/5370">Caroline Jay</author>
+<author pid="99/668">Anton Treskunov</author>
+<title>Impact of hand-assisted viewing on user performance and learning patterns in virtual environments.</title>
+<pages>173-185</pages>
+<year>2011</year>
+<volume>27</volume>
+<journal>Vis. Comput.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s00371-010-0516-0</ee>
+<ee>https://www.wikidata.org/entity/Q58239027</ee>
+<url>db/journals/vc/vc27.html#SherstyukJT11</url>
+</article>
+</r>
+<r>
+<article key="journals/nrhm/BrownJH10" mdate="2020-04-09">
+<author pid="52/285">Andy Brown</author>
+<author orcid="0000-0002-6080-1382" pid="81/5370">Caroline Jay</author>
+<author orcid="0000-0001-9301-5049" pid="h/SimonHarper">Simon Harper</author>
+<title>Using qualitative eye-tracking data to inform audio presentation of dynamic Web content.</title>
+<pages>281-301</pages>
+<year>2010</year>
+<volume>16</volume>
+<journal>New Rev. Hypermedia Multim.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1080/13614568.2010.542253</ee>
+<ee>https://www.wikidata.org/entity/Q58239029</ee>
+<url>db/journals/nrhm/nrhm16.html#BrownJH10</url>
+</article>
+</r>
+<r>
+<inproceedings key="conf/w4a/BrownJH10" mdate="2018-11-14">
+<author pid="52/285">Andy Brown</author>
+<author orcid="0000-0002-6080-1382" pid="81/5370">Caroline Jay</author>
+<author orcid="0000-0001-9301-5049" pid="h/SimonHarper">Simon Harper</author>
+<title>Tailored presentation of dynamic content.</title>
+<pages>22</pages>
+<year>2010</year>
+<booktitle>W4A</booktitle>
+<ee>https://doi.org/10.1145/1805986.1806018</ee>
+<ee>https://www.wikidata.org/entity/Q58239412</ee>
+<crossref>conf/w4a/2010</crossref>
+<url>db/conf/w4a/w4a2010.html#BrownJH10</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/w4a/BrownJH10a" mdate="2018-11-14">
+<author pid="52/285">Andy Brown</author>
+<author orcid="0000-0002-6080-1382" pid="81/5370">Caroline Jay</author>
+<author orcid="0000-0001-9301-5049" pid="h/SimonHarper">Simon Harper</author>
+<title>Audio access to calendars.</title>
+<pages>31</pages>
+<year>2010</year>
+<booktitle>W4A</booktitle>
+<ee>https://doi.org/10.1145/1805986.1806028</ee>
+<ee>https://www.wikidata.org/entity/Q58239400</ee>
+<crossref>conf/w4a/2010</crossref>
+<url>db/conf/w4a/w4a2010.html#BrownJH10a</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/w4a/BrownJH09" mdate="2018-11-06">
+<author pid="52/285">Andy Brown</author>
+<author pid="81/5370">Caroline Jay</author>
+<author pid="h/SimonHarper">Simon Harper</author>
+<title>Audio presentation of auto-suggest lists.</title>
+<pages>58-61</pages>
+<year>2009</year>
+<booktitle>W4A</booktitle>
+<ee>https://doi.org/10.1145/1535654.1535667</ee>
+<crossref>conf/w4a/2009</crossref>
+<url>db/conf/w4a/w4a2009.html#BrownJH09</url>
+</inproceedings>
+</r>
+<r>
+<article key="journals/tap/JaySHG08" mdate="2020-05-21">
+<author orcid="0000-0002-6080-1382" pid="81/5370">Caroline Jay</author>
+<author pid="s/RobertStevens">Robert Stevens 0001</author>
+<author pid="h/RogerJHubbold">Roger J. Hubbold</author>
+<author pid="55/5237">Mashhuda Glencross</author>
+<title>Using haptic cues to aid nonvisual structure recognition.</title>
+<year>2008</year>
+<volume>5</volume>
+<journal>ACM Trans. Appl. Percept.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/1279920.1279922</ee>
+<ee>https://www.wikidata.org/entity/Q56601871</ee>
+<url>db/journals/tap/tap5.html#JaySHG08</url>
+<pages>8:1-8:14</pages>
+</article>
+</r>
+<r>
+<article key="journals/tog/GlencrossWMJLH08" mdate="2019-05-14">
+<author pid="55/5237">Mashhuda Glencross</author>
+<author pid="44/6798">Gregory J. Ward</author>
+<author pid="26/5308">Francho Melendez</author>
+<author orcid="0000-0002-6080-1382" pid="81/5370">Caroline Jay</author>
+<author pid="95/3736">Jun Liu</author>
+<author pid="h/RogerJHubbold">Roger J. Hubbold</author>
+<title>A perceptually validated model for surface depth hallucination.</title>
+<year>2008</year>
+<volume>27</volume>
+<journal>ACM Trans. Graph.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/1360612.1360658</ee>
+<ee>https://doi.org/10.1145/1399504.1360658</ee>
+<ee>https://www.wikidata.org/entity/Q58239032</ee>
+<url>db/journals/tog/tog27.html#GlencrossWMJLH08</url>
+<pages>59</pages>
+</article>
+</r>
+<r>
+<inproceedings key="conf/3dui/SherstyukVJ08" mdate="2017-05-26">
+<author pid="24/2032">Andrei Sherstyuk</author>
+<author pid="29/7680">Dale Vincent</author>
+<author pid="81/5370">Caroline Jay</author>
+<title>Poster: Sliding Viewport for Head Mounted Displays in Interactive Environments.</title>
+<pages>135-136</pages>
+<year>2008</year>
+<booktitle>3DUI</booktitle>
+<ee>https://doi.org/10.1109/3DUI.2008.4476604</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/3DUI.2008.4476604</ee>
+<crossref>conf/3dui/2008</crossref>
+<url>db/conf/3dui/3dui2008.html#SherstyukVJ08</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/www/YesiladaJSH08" mdate="2019-01-21">
+<author orcid="0000-0001-8501-0205" pid="y/YYesilada">Yeliz Yesilada</author>
+<author pid="81/5370">Caroline Jay</author>
+<author pid="s/RobertStevens">Robert Stevens 0001</author>
+<author orcid="0000-0001-9301-5049" pid="h/SimonHarper">Simon Harper</author>
+<title>Validating the use and role of visual elements of web pages in navigation with an eye-tracking study.</title>
+<pages>11-20</pages>
+<year>2008</year>
+<booktitle>WWW</booktitle>
+<ee>https://doi.org/10.1145/1367497.1367500</ee>
+<ee>https://www.wikidata.org/entity/Q58239457</ee>
+<crossref>conf/www/2008</crossref>
+<url>db/conf/www/www2008.html#YesiladaJSH08</url>
+</inproceedings>
+</r>
+<r>
+<incollection key="series/hci/JayLM08" mdate="2017-05-16">
+<author pid="81/5370">Caroline Jay</author>
+<author pid="61/360">Darren Lunn</author>
+<author pid="00/4263">Eleni Michailidou</author>
+<title>End User Evaluations.</title>
+<pages>107-126</pages>
+<year>2008</year>
+<booktitle>Web Accessibility</booktitle>
+<ee>https://doi.org/10.1007/978-1-84800-050-6_8</ee>
+<crossref>series/hci/HarperY08</crossref>
+<url>db/series/hci/HarperY08.html#JayLM08</url>
+</incollection>
+</r>
+<r>
+<article key="journals/tochi/JayGH07" mdate="2020-04-25">
+<author orcid="0000-0002-6080-1382" pid="81/5370">Caroline Jay</author>
+<author pid="55/5237">Mashhuda Glencross</author>
+<author pid="h/RogerJHubbold">Roger J. Hubbold</author>
+<title>Modeling the effects of delayed haptic and visual feedback in a collaborative virtual environment.</title>
+<year>2007</year>
+<volume>14</volume>
+<journal>ACM Trans. Comput. Hum. Interact.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/1275511.1275514</ee>
+<ee>https://www.wikidata.org/entity/Q58239036</ee>
+<url>db/journals/tochi/tochi14.html#JayGH07</url>
+<pages>8</pages>
+</article>
+</r>
+<r>
+<article key="journals/uais/JaySGCY07" mdate="2020-05-11">
+<author orcid="0000-0002-6080-1382" pid="81/5370">Caroline Jay</author>
+<author pid="s/RobertStevens">Robert Stevens 0001</author>
+<author pid="55/5237">Mashhuda Glencross</author>
+<author pid="10/2540">Alan Chalmers</author>
+<author pid="84/3183">Cathy Yang</author>
+<title>How people use presentation to search for a link: expanding the understanding of accessibility on the Web.</title>
+<pages>307-320</pages>
+<year>2007</year>
+<volume>6</volume>
+<journal>Univers. Access Inf. Soc.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10209-007-0089-5</ee>
+<ee>https://www.wikidata.org/entity/Q58239034</ee>
+<url>db/journals/uais/uais6.html#JaySGCY07</url>
+</article>
+</r>
+<r>
+<inproceedings key="conf/vr/GlencrossJFKWH07" mdate="2018-11-02">
+<author pid="55/5237">Mashhuda Glencross</author>
+<author orcid="0000-0002-6080-1382" pid="81/5370">Caroline Jay</author>
+<author pid="17/5907">Jeff Feasel</author>
+<author pid="08/186">Luv Kohli</author>
+<author pid="w/MaryCWhitton">Mary C. Whitton</author>
+<author pid="h/RogerJHubbold">Roger J. Hubbold</author>
+<title>Effective Cooperative Haptic Interaction over the Internet.</title>
+<pages>115-122</pages>
+<year>2007</year>
+<booktitle>VR</booktitle>
+<ee>https://doi.org/10.1109/VR.2007.352471</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/VR.2007.352471</ee>
+<crossref>conf/vr/2007</crossref>
+<url>db/conf/vr/vr2007.html#GlencrossJFKWH07</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/w4a/JaySGC06" mdate="2019-01-21">
+<author orcid="0000-0002-6080-1382" pid="81/5370">Caroline Jay</author>
+<author pid="s/RobertStevens">Robert Stevens 0001</author>
+<author pid="55/5237">Mashhuda Glencross</author>
+<author pid="10/2540">Alan Chalmers</author>
+<title>How people use presentation to search for a link: expanding the understanding of accessibility on the web.</title>
+<pages>113-120</pages>
+<year>2006</year>
+<crossref>conf/w4a/2006</crossref>
+<booktitle>W4A</booktitle>
+<ee>https://doi.org/10.1145/1133219.1133241</ee>
+<url>db/conf/w4a/w4a2006.html#JaySGC06</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/haptics/JayH05" mdate="2017-05-26">
+<author pid="81/5370">Caroline Jay</author>
+<author pid="h/RogerJHubbold">Roger J. Hubbold</author>
+<title>Delayed Visual and Haptic Feedback in a Reciprocal Tapping Task.</title>
+<pages>655-656</pages>
+<year>2005</year>
+<crossref>conf/haptics/2005</crossref>
+<booktitle>WHC</booktitle>
+<ee>https://doi.org/10.1109/WHC.2005.29</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/WHC.2005.29</ee>
+<url>db/conf/haptics/whc2005.html#JayH05</url>
+</inproceedings>
+</r>
+<r>
+<article key="journals/presence/JayH03" mdate="2020-09-01">
+<author orcid="0000-0002-6080-1382" pid="81/5370">Caroline Jay</author>
+<author pid="h/RogerJHubbold">Roger J. Hubbold</author>
+<title>Amplifying Head Movements with Head-Mounted Displays.</title>
+<pages>268-276</pages>
+<year>2003</year>
+<volume>12</volume>
+<journal>Presence Teleoperators Virtual Environ.</journal>
+<number>3</number>
+<url>db/journals/presence/presence12.html#JayH03</url>
+<ee>https://doi.org/10.1162/105474603765879521</ee>
+<ee>https://www.wikidata.org/entity/Q58239038</ee>
+</article>
+</r>
+<coauthors n="134" nc="3">
+<co c="0">
+<na f="a/Aizpurua:Amaia" pid="77/7018">Amaia Aizpurua</na>
+</co>
+<co c="0">
+<na f="a/Alahmadi:Alaa" pid="163/2623">Alaa Alahmadi</na>
+</co>
+<co c="0">
+<na f="a/Allen:Alice" pid="123/4491">Alice Allen</na>
+</co>
+<co c="0">
+<na f="a/Alqahtani:Deemah" pid="269/2478">Deemah Alqahtani</na>
+</co>
+<co c="0">
+<na f="a/Apaolaza:Aitor" pid="130/2225">Aitor Apaolaza</na>
+</co>
+<co c="0">
+<na f="a/Aragon:Cecilia_R=" pid="66/5226">Cecilia R. Aragon</na>
+</co>
+<co c="0">
+<na f="a/Arbelaitz:Olatz" pid="01/212">Olatz Arbelaitz</na>
+</co>
+<co c="0">
+<na f="a/Armstrong:Mike" pid="162/9875">Mike Armstrong</na>
+</co>
+<co c="0">
+<na f="a/Ashcroft:Darren" pid="218/0272">Darren Ashcroft</na>
+</co>
+<co c="0">
+<na f="a/Austin:Jim" pid="a/JimAustin">Jim Austin</na>
+</co>
+<co c="0">
+<na f="b/Bail:Samantha" pid="54/8838">Samantha Bail</na>
+</co>
+<co c="0">
+<na f="b/Barker:Michelle" pid="155/2979">Michelle Barker</na>
+</co>
+<co c="0">
+<na f="b/Becker:Christoph" pid="22/479">Christoph Becker</na>
+</co>
+<co c="0">
+<na f="b/Brandt:Steven_R=" pid="81/8576">Steven R. Brandt</na>
+</co>
+<co c="0" n="2">
+<na f="b/Brass:Andy" pid="13/3147">Andy Brass</na>
+<na>Andrew Brass</na>
+</co>
+<co c="0">
+<na f="b/Brooke:John_M=" pid="18/2430">John M. Brooke</na>
+</co>
+<co c="0">
+<na f="b/Brooks:Matthew" pid="163/5564">Matthew Brooks</na>
+</co>
+<co c="0">
+<na f="b/Brown:Andy" pid="52/285">Andy Brown</na>
+</co>
+<co c="0">
+<na f="c/Caine:Colin" pid="151/8039">Colin Caine</na>
+</co>
+<co c="0">
+<na f="c/Carlton:Jonathan" pid="198/0587">Jonathan Carlton</na>
+</co>
+<co c="0">
+<na f="c/Carver:Jeffrey_C=" pid="c/JeffreyCCarver">Jeffrey C. Carver</na>
+</co>
+<co c="0">
+<na f="c/Chalmers:Alan" pid="10/2540">Alan Chalmers</na>
+</co>
+<co c="0" n="2">
+<na f="c/Chen:Alex_Qiang" pid="81/10713">Alex Qiang Chen</na>
+<na>Alex Q. Chen</na>
+</co>
+<co c="0">
+<na f="c/Chis:Andrei" pid="150/3624">Andrei Chis</na>
+</co>
+<co c="0">
+<na f="c/Cohen:Jeremy" pid="25/3538">Jeremy Cohen</na>
+</co>
+<co c="0">
+<na f="c/Combemale:Beno=icirc=t" pid="24/757">Benoît Combemale</na>
+</co>
+<co c="0">
+<na f="c/Couth:Samuel" pid="184/3339">Samuel Couth</na>
+</co>
+<co c="0">
+<na f="c/Crabb:Mike" pid="163/5562">Mike Crabb</na>
+</co>
+<co c="0">
+<na f="c/Croucher:Mike" pid="200/2648">Mike Croucher</na>
+</co>
+<co c="0">
+<na f="c/Crowston:Kevin" pid="97/6932">Kevin Crowston</na>
+</co>
+<co c="0">
+<na f="c/Crowther:Peter" pid="15/5257">Peter Crowther</na>
+</co>
+<co c="0">
+<na f="c/Cruickshank:Sheena" pid="213/0676">Sheena Cruickshank</na>
+</co>
+<co c="0">
+<na f="c/Cunha:Marisa" pid="253/0039">Marisa Cunha</na>
+</co>
+<co c="0" n="2">
+<na f="d/Dam:Huub_J=_J=_Van" pid="89/1323">Huub J. J. Van Dam</na>
+<na>Hubertus Van Dam</na>
+</co>
+<co c="0">
+<na f="d/Davies:Alan" pid="184/5617">Alan Davies</na>
+</co>
+<co c="0">
+<na f="d/Deemter:Kees_van" pid="30/4465">Kees van Deemter</na>
+</co>
+<co c="0">
+<na f="d/Dibsdale:Charlie" pid="78/10837">Charlie Dibsdale</na>
+</co>
+<co c="0">
+<na f="d/Druskat:Stephan" pid="154/4420">Stephan Druskat</na>
+</co>
+<co c="0">
+<na f="d/Dubey:Anshu" pid="79/6344">Anshu Dubey</na>
+</co>
+<co c="0">
+<na f="d/Dunne:Robert" pid="179/4677">Robert Dunne</na>
+</co>
+<co c="0">
+<na f="e/Embury:Suzanne_M=" pid="e/SMEmbury">Suzanne M. Embury</na>
+</co>
+<co c="0">
+<na f="e/Eraslan:Sukru" pid="130/2239">Sukru Eraslan</na>
+</co>
+<co c="0">
+<na f="e/Evans:Michael" pid="76/6060">Michael Evans</na>
+</co>
+<co c="0">
+<na f="f/Feasel:Jeff" pid="17/5907">Jeff Feasel</na>
+</co>
+<co c="2">
+<na f="f/Freitas:Andr=eacute=" pid="47/9409">André Freitas</na>
+</co>
+<co c="0">
+<na f="g/Garijo:Daniel" pid="36/10486">Daniel Garijo</na>
+</co>
+<co c="0">
+<na f="g/Garza:Kristian" pid="165/0431">Kristian Garza</na>
+</co>
+<co c="0">
+<na f="g/Gehani:Ashish" pid="21/2267">Ashish Gehani</na>
+</co>
+<co c="0">
+<na f="g/Gelsthorpe:David" pid="179/4886">David Gelsthorpe</na>
+</co>
+<co c="0">
+<na f="g/Gesing:Sandra" pid="75/8291">Sandra Gesing</na>
+</co>
+<co c="0">
+<na f="g/Glancy:Maxine" pid="26/5128">Maxine Glancy</na>
+</co>
+<co c="0">
+<na f="g/Glencross:Mashhuda" pid="55/5237">Mashhuda Glencross</na>
+</co>
+<co c="0">
+<na f="g/Goble:Carole_A=" pid="g/CaroleAGoble">Carole A. Goble</na>
+</co>
+<co c="0">
+<na f="g/Griffiths:Michael_K=" pid="99/9858">Michael K. Griffiths</na>
+</co>
+<co c="0">
+<na f="h/Haines:Robert" pid="09/8006">Robert Haines</na>
+</co>
+<co c="0">
+<na f="h/Harper:Simon" pid="h/SimonHarper">Simon Harper</na>
+</co>
+<co c="0">
+<na f="h/Hassan:Lamiece" pid="213/0662">Lamiece Hassan</na>
+</co>
+<co c="0">
+<na f="h/Hastings:Janna" pid="85/5079">Janna Hastings</na>
+</co>
+<co c="0">
+<na f="h/Hirschfeld:Robert" pid="h/RobertHirschfeld">Robert Hirschfeld</na>
+</co>
+<co c="0">
+<na f="h/Holmes:Violeta" pid="56/1052">Violeta Holmes</na>
+</co>
+<co c="0" n="2">
+<na f="h/Hong:Neil_P=_Chue" pid="74/3319">Neil P. Chue Hong</na>
+<na>Neil Chue Hong</na>
+</co>
+<co c="0">
+<na f="h/Howison:James" pid="11/2108">James Howison</na>
+</co>
+<co c="0">
+<na f="h/Hubbold:Roger_J=" pid="h/RogerJHubbold">Roger J. Hubbold</na>
+</co>
+<co c="0">
+<na f="h/Huff:Kathryn_D=" pid="168/8168">Kathryn D. Huff</na>
+</co>
+<co c="0">
+<na f="j/Jolly:Stephen" pid="179/4607">Stephen Jolly</na>
+</co>
+<co c="0" n="2">
+<na f="j/Jones:Rhianne" pid="144/5568">Rhianne Jones</na>
+<na>Rhia Jones</na>
+</co>
+<co c="0">
+<na f="k/Katz:Daniel_S=" pid="78/3211">Daniel S. Katz</na>
+</co>
+<co c="0">
+<na f="k/Keane:John" pid="08/269">John Keane</na>
+</co>
+<co c="0">
+<na f="k/Keers:Richard" pid="218/0583">Richard Keers</na>
+</co>
+<co c="0">
+<na f="k/Kerlin:Lianne" pid="71/9917">Lianne Kerlin</na>
+</co>
+<co c="0">
+<na f="k/Kim:Taewook" pid="12/6243">Taewook Kim</na>
+</co>
+<co c="0">
+<na f="k/Kirchner:Claude" pid="k/ClaudeKirchner">Claude Kirchner</na>
+</co>
+<co c="0">
+<na f="k/Kohli:Luv" pid="08/186">Luv Kohli</na>
+</co>
+<co c="0">
+<na f="k/Kopec=Harding:Kamilla" pid="238/0164">Kamilla Kopec-Harding</na>
+</co>
+<co c="0">
+<na f="k/Kotz:Sonja" pid="184/3463">Sonja Kotz</na>
+</co>
+<co c="0">
+<na f="k/Kuksenok:Katie" pid="126/1831">Katie Kuksenok</na>
+</co>
+<co c="0">
+<na f="l/L=auml=mmel:Ralf" pid="l/RalfLammel">Ralf Lämmel</na>
+</co>
+<co c="0">
+<na f="l/Lau:Lydia" pid="94/7339">Lydia Lau</na>
+</co>
+<co c="0">
+<na f="l/Liu:Jun" pid="95/3736">Jun Liu</na>
+</co>
+<co c="0">
+<na f="l/Lunn:Darren" pid="61/360">Darren Lunn</na>
+</co>
+<co c="0">
+<na f="m/Ma:Xiaojuan" pid="06/4530">Xiaojuan Ma</na>
+</co>
+<co c="2" n="2">
+<na f="m/Marshall:Guy" pid="232/3093">Guy Marshall</na>
+<na>Guy Clarke Marshall</na>
+</co>
+<co c="0">
+<na f="m/Matentzoglu:Nicolas" pid="132/5802">Nicolas Matentzoglu</na>
+</co>
+<co c="0">
+<na f="m/Melendez:Francho" pid="26/5308">Francho Melendez</na>
+</co>
+<co c="0" n="2">
+<na f="m/Mellish:Chris" pid="72/2459">Chris Mellish</na>
+<na>Christopher S. Mellish</na>
+</co>
+<co c="0">
+<na f="m/Metcalfe:Paul_D=" pid="168/7719">Paul D. Metcalfe</na>
+</co>
+<co c="0">
+<na f="m/Michailidou:Eleni" pid="00/4263">Eleni Michailidou</na>
+</co>
+<co c="0">
+<na f="m/Morozov:Vitali" pid="165/5189">Vitali Morozov</na>
+</co>
+<co c="0">
+<na f="m/Muguerza:Javier" pid="17/2748">Javier Muguerza</na>
+</co>
+<co c="0" n="2">
+<na f="m/M=uuml=ller:Julia" pid="38/7903">Julia Müller</na>
+<na>Julia Mueller</na>
+</co>
+<co c="0">
+<na f="n/Nierstrasz:Oscar" pid="n/ONierstrasz">Oscar Nierstrasz</na>
+</co>
+<co c="0">
+<na f="n/Nieuwpoort:Rob_van" pid="n/RvNieuwpoort">Rob van Nieuwpoort</na>
+</co>
+<co c="0">
+<na f="p/Page:Christopher" pid="61/7910">Christopher Page</na>
+</co>
+<co c="0">
+<na f="p/Pan:Jeff_Z=" pid="59/6490">Jeff Z. Pan</na>
+</co>
+<co c="0">
+<na f="p/Parvizi:Artemis" pid="145/1129">Artemis Parvizi</na>
+</co>
+<co c="0">
+<na f="p/Peek:Niels" pid="36/2563">Niels Peek</na>
+</co>
+<co c="0">
+<na f="p/Perona:I=ntilde=igo" pid="58/4629">Iñigo Perona</na>
+</co>
+<co c="0">
+<na f="p/Phillips:James_C=" pid="40/4876">James C. Phillips</na>
+</co>
+<co c="0">
+<na f="p/Poliakoff:Ellen" pid="55/7275">Ellen Poliakoff</na>
+</co>
+<co c="0">
+<na f="q/Quan:Huangmao" pid="122/4878">Huangmao Quan</na>
+</co>
+<co c="0">
+<na f="r/Reani:Manuele" pid="201/0175">Manuele Reani</na>
+</co>
+<co c="0">
+<na f="r/Ren_0001:Yuan" pid="69/4334-1">Yuan Ren 0001</na>
+</co>
+<co c="0">
+<na f="r/R=iacute=os:Julio_C=eacute=sar_Cort=eacute=s" pid="182/7034">Julio César Cortés Ríos</na>
+</co>
+<co c="0">
+<na f="r/Royle:Jennifer" pid="239/8195">Jennifer Royle</na>
+</co>
+<co c="0">
+<na f="s/Sandford:James" pid="00/573">James Sandford</na>
+</co>
+<co c="1">
+<na f="s/Sherstyuk:Andrei" pid="24/2032">Andrei Sherstyuk</na>
+</co>
+<co c="0">
+<na f="s/Souza:Mario_Rosado_de" pid="237/9969">Mario Rosado de Souza</na>
+</co>
+<co c="0" n="2">
+<na f="s/Stevens_0001:Robert" pid="s/RobertStevens">Robert Stevens 0001</na>
+<na>Robert D. Stevens</na>
+</co>
+<co c="0">
+<na f="s/Struck:Alexander" pid="52/8910">Alexander Struck</na>
+</co>
+<co c="0">
+<na f="s/Sufi:Shoaib" pid="83/4297">Shoaib Sufi</na>
+</co>
+<co c="0">
+<na f="s/Sullivan:Matthew" pid="217/9430">Matthew Sullivan</na>
+</co>
+<co c="0">
+<na f="s/Sun:Zhida" pid="195/7927">Zhida Sun</na>
+</co>
+<co c="0">
+<na f="t/Todd:Chris" pid="08/6849">Chris Todd</na>
+</co>
+<co c="1">
+<na f="t/Treskunov:Anton" pid="99/668">Anton Treskunov</na>
+</co>
+<co c="0">
+<na f="t/Turk:Matthew_J=" pid="125/2149">Matthew J. Turk</na>
+</co>
+<co c="0">
+<na f="v/Vance:William" pid="213/0519">William Vance</na>
+</co>
+<co c="0" n="2">
+<na f="v/Vaughn:Matthew_W=" pid="149/0350">Matthew W. Vaughn</na>
+<na>Matthew Vaughn</na>
+</co>
+<co c="0">
+<na f="v/Vega:Julio" pid="178/3568">Julio Vega</na>
+</co>
+<co c="0">
+<na f="v/Venters:Colin_C=" pid="69/5899">Colin C. Venters</na>
+</co>
+<co c="0">
+<na f="v/Vigo:Markel" pid="79/7015">Markel Vigo</na>
+</co>
+<co c="1">
+<na f="v/Vincent:Dale" pid="29/7680">Dale Vincent</na>
+</co>
+<co c="0">
+<na f="v/Vinju:Jurgen_J=" pid="55/5625">Jurgen J. Vinju</na>
+</co>
+<co c="0">
+<na f="w/Wan:Hui" pid="80/4275">Hui Wan</na>
+</co>
+<co c="0">
+<na f="w/Ward:Gregory_J=" pid="44/6798">Gregory J. Ward</na>
+</co>
+<co c="0">
+<na f="w/Ward:Rupert_R=" pid="151/4933">Rupert R. Ward</na>
+</co>
+<co c="0">
+<na f="w/Weatherall:James" pid="133/7401">James Weatherall</na>
+</co>
+<co c="0">
+<na f="w/Whitton:Mary_C=" pid="w/MaryCWhitton">Mary C. Whitton</na>
+</co>
+<co c="0">
+<na f="w/Williams_0001:Richard" pid="77/1859-1">Richard Williams 0001</na>
+</co>
+<co c="0">
+<na f="w/Wu:Ziming" pid="49/3584">Ziming Wu</na>
+</co>
+<co c="0">
+<na f="x/Xu_0007:Jie" pid="37/5126-7">Jie Xu 0007</na>
+</co>
+<co c="0">
+<na f="y/Yang:Cathy" pid="84/3183">Cathy Yang</na>
+</co>
+<co c="0">
+<na f="y/Yera:Ainhoa" pid="193/1606">Ainhoa Yera</na>
+</co>
+<co c="0">
+<na f="y/Yesilada:Yeliz" pid="y/YYesilada">Yeliz Yesilada</na>
+</co>
+<co c="0">
+<na f="z/Zhao:Yuting" pid="96/11">Yuting Zhao</na>
+</co>
+</coauthors>
+</dblpperson>

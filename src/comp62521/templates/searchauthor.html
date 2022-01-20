@@ -1,0 +1,37 @@
+{% extends "base.html" %}
+{% block title %}{{ args.title }}{% endblock %}
+{% block content %}
+
+<h1>{{ args.title }}</h1>
+
+<form name="input" action="/searchauthor" method="GET">
+  <div>
+    Name of author: <input type="search" placeholder="" name="author_name" id="content">
+    <button type="submit">Search</button>
+  </div>
+</form>
+
+<br \>
+<br \>
+
+<table class="sortable">
+  <thead>
+    <tr>
+    {% for column in args.data[0] %}
+      <th>{{ column }}</th>
+    {% endfor %}
+    </tr>
+  </thead>
+
+  <tbody>
+    {% for i in range(args.num_authors) %}
+    <tr>
+        <td style="text-align:center;vertical-align:middle;"><a href="{{ url_for('post_author', authorname=args.author_name[i]) }}">{{ args.author_name[i] }}</a></td>
+        {% for row in args.author_stats[i] %}
+          <td style="text-align:center;vertical-align:middle;">{{ row }}</td>
+        {% endfor %}
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+{% endblock %}

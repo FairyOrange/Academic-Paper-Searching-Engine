@@ -1,0 +1,380 @@
+<dblp>
+<book mdate="2002-01-03" key="books/aw/CeriF97">
+    <author>Stefano Ceri</author>
+    <author>Piero Fraternali</author>
+    <title>Designing Database Applications with Objects and Rules: The IDEA Methodology</title>
+    <publisher href="db/publishers/aw.html">Addison-Wesley</publisher>
+    <year>1997</year>
+    <isbn>0-201-40369-2</isbn>
+</book>
+<book mdate="2002-01-03" key="books/bc/BatiniCN92">
+    <author>Carlo Batini</author>
+    <author>Stefano Ceri</author>
+    <author>Shamkant B. Navathe</author>
+    <title>Conceptual Database Design: An Entity-Relationship Approach.</title>
+    <publisher>Benjamin/Cummings</publisher>
+    <year>1992</year>
+    <isbn>0-8053-0244-1</isbn>
+</book>
+<incollection mdate="2008-02-24" key="books/crc/tucker97/CeriR97">
+    <author>Stefano Ceri</author>
+    <author>Raghu Ramakrishnan</author>
+    <title>Rules in Data-Based Systems.</title>
+    <pages>1142-1157</pages>
+    <year>1997</year>
+    <crossref>books/crc/tucker1997</crossref>
+    <booktitle>The Computer Science and Engineering Handbook</booktitle>
+    <url>db/books/collections/tucker97.html#CeriR97</url>
+</incollection>
+<book mdate="2012-11-06" key="books/daglib/0029346">
+    <author>AnHai Doan</author>
+    <author>Alon Y. Halevy</author>
+    <author>Zachary G. Ives</author>
+    <title>Principles of Data Integration.</title>
+    <pages>I-XVIII, 1-497</pages>
+    <publisher>Morgan Kaufmann</publisher>
+    <year>2012</year>
+    <isbn>978-0-12-416044-6</isbn>
+    <ee>http://store.elsevier.com/product.jsp?isbn=9780124160446</ee>
+</book>
+<book mdate="2011-04-08" key="books/daglib/0068763">
+    <author>Peter M. D. Gray</author>
+    <author>Krishna G. Kulkarni</author>
+    <author>Norman W. Paton</author>
+    <title>Object-oriented databases - a semantic data model approach.</title>
+    <pages>I-XV, 1-237</pages>
+    <publisher>Prentice Hall</publisher>
+    <year>1992</year>
+    <series>Prentice Hall International Series in Computer Science</series>
+    <isbn>978-0-13-630203-2</isbn>
+</book>
+<incollection mdate="2002-01-03" key="books/eh/grayL88/PatonG88">
+    <author>Norman W. Paton</author>
+    <author>Peter M. D. Gray</author>
+    <title>An Object-Oriented Database for Storage and Analysis of Protein Structure Data.</title>
+    <pages>251-266</pages>
+    <year>1988</year>
+    <booktitle>Prolog and Databases</booktitle>
+    <url>db/books/collections/gray88.html#PatonG88</url>
+</incollection>
+<incollection mdate="2002-03-14" key="books/mit/papazoglouST2000/CasatiCPP00">
+    <author>Fabio Casati</author>
+    <author>Stefano Ceri</author>
+    <author>Barbara Pernici</author>
+    <author>Giuseppe Pozzi</author>
+    <title>Conceptual Modeling of Workflows.</title>
+    <pages>281-306</pages>
+    <year>2000</year>
+    <booktitle>Advances in Object-Oriented Data Modeling</booktitle>
+    <url>db/books/collections/Papazoglou2000.html#CasatiCPP00</url>
+</incollection>
+<book mdate="2002-01-03" key="books/mk/ZanioloCFSSZ97">
+    <author>Carlo Zaniolo</author>
+    <author>Stefano Ceri</author>
+    <author>Christos Faloutsos</author>
+    <author>Richard T. Snodgrass</author>
+    <author>V. S. Subrahmanian</author>
+    <author>Roberto Zicari</author>
+    <title>Advanced Database Systems.</title>
+    <publisher href="db/publishers/mkp.html">Morgan Kaufmann</publisher>
+    <year>1997</year>
+    <isbn>1-55860-443-X</isbn>
+</book>
+<incollection mdate="2002-01-03" key="books/mk/widomC96/CeriFPT96">
+    <author>Stefano Ceri</author>
+    <author>Piero Fraternali</author>
+    <author>Stefano Paraboschi</author>
+    <author>Letizia Tanca</author>
+    <title>Active Rule Management in Chimera</title>
+    <booktitle>Active Database Systems: Triggers and Rules For Advanced Database Processing</booktitle>
+    <publisher href="db/publishers/mkp.html">Morgan Kaufmann</publisher>
+    <year>1996</year>
+    <pages>151-176</pages>
+    <url>db/books/collections/widom96.html#CeriFPT96</url>
+</incollection>
+<incollection mdate="2002-01-03" key="books/mk/widomC96/WidomC96">
+    <author>Jennifer Widom</author>
+    <author>Stefano Ceri</author>
+    <title>Introduction to Active Database Systems</title>
+    <booktitle>Active Database Systems: Triggers and Rules For Advanced Database Processing</booktitle>
+    <publisher href="db/publishers/mkp.html">Morgan Kaufmann</publisher>
+    <year>1996</year>
+    <pages>1-41</pages>
+    <url>db/books/collections/widom96.html#WidomC96</url>
+</incollection>
+<incollection mdate="2002-01-03" key="books/mk/widomC96/WidomC96a">
+    <author>Jennifer Widom</author>
+    <author>Stefano Ceri</author>
+    <title>Standards and Commercial Systems</title>
+    <booktitle>Active Database Systems: Triggers and Rules For Advanced Database Processing</booktitle>
+    <publisher href="db/publishers/mkp.html">Morgan Kaufmann</publisher>
+    <year>1996</year>
+    <pages>233-258</pages>
+    <url>db/books/collections/widom96.html#WidomC96a</url>
+</incollection>
+<incollection mdate="2002-01-03" key="books/mk/widomC96/WidomC96b">
+    <author>Jennifer Widom</author>
+    <author>Stefano Ceri</author>
+    <title>Applications of Active Databases</title>
+    <booktitle>Active Database Systems: Triggers and Rules For Advanced Database Processing</booktitle>
+    <publisher href="db/publishers/mkp.html">Morgan Kaufmann</publisher>
+    <year>1996</year>
+    <pages>259-291</pages>
+    <url>db/books/collections/widom96.html#WidomC96b</url>
+</incollection>
+<incollection mdate="2002-01-03" key="books/mk/widomC96/WidomC96c">
+    <author>Jennifer Widom</author>
+    <author>Stefano Ceri</author>
+    <title>Conclusions and Future Directions</title>
+    <booktitle>Active Database Systems: Triggers and Rules For Advanced Database Processing</booktitle>
+    <publisher href="db/publishers/mkp.html">Morgan Kaufmann</publisher>
+    <year>1996</year>
+    <pages>293-302</pages>
+    <url>db/books/collections/widom96.html#WidomC96c</url>
+</incollection>
+<incollection mdate="2011-09-22" key="books/ms/4paradigm2009/GobleR09">
+    <author>Carole A. Goble</author>
+    <author>David De Roure</author>
+    <title>The impact of workflow tools on data-centric research.</title>
+    <pages>137-145</pages>
+    <year>2009</year>
+    <booktitle>The Fourth Paradigm</booktitle>
+    <ee>http://research.microsoft.com/en-us/collaboration/fourthparadigm/4th_paradigm_book_part3_goble_deroure.pdf</ee>
+    <crossref>books/ms/4paradigm09</crossref>
+    <url>db/books/collections/4paradigm2009.html#GobleR09</url>
+</incollection>
+<incollection mdate="2002-01-03" key="books/ph/groskyJM97/Goble97">
+    <author>Carole A. Goble</author>
+    <title>Image Database Prototypes.</title>
+    <pages>0-</pages>
+    <year>1997</year>
+    <booktitle>Handbook of Multimedia Information Management</booktitle>
+    <url>db/books/collections/GroskyJM97.html#Goble97</url>
+</incollection>
+<book mdate="2002-01-03" key="books/sp/CeriGT90">
+    <author>Stefano Ceri</author>
+    <author>Georg Gottlob</author>
+    <author>Letizia Tanca</author>
+    <title>Logic Programming and Databases</title>
+    <publisher>Springer</publisher>
+    <year>1990</year>
+    <isbn>3-540-51728-6</isbn>
+</book>
+<incollection mdate="2011-11-03" key="books/sp/bellahsene2011/SarmaDH11">
+    <author>Anish Das Sarma</author>
+    <author>Xin Luna Dong</author>
+    <author>Alon Y. Halevy</author>
+    <title>Uncertainty in Data Integration and Dataspace Support Platforms.</title>
+    <pages>75-108</pages>
+    <year>2011</year>
+    <booktitle>Schema Matching and Mapping</booktitle>
+    <ee>http://dx.doi.org/10.1007/978-3-642-16518-4_4</ee>
+    <crossref>books/sp/bellahsene11</crossref>
+    <url>db/books/collections/Bellahsene2011.html#SarmaDH11</url>
+</incollection>
+<incollection mdate="2002-01-03" key="books/sp/patton99/DinnPW99">
+    <author>Andrew Dinn</author>
+    <author>Norman W. Paton</author>
+    <author>M. Howard Williams</author>
+    <title>RAP: The ROCK &amp; ROLL Active Programming System.</title>
+    <pages>323-336</pages>
+    <year>1999</year>
+    <booktitle>Active Rules in Database Systems</booktitle>
+    <url>db/books/collections/patton99.html#DinnPW99</url>
+</incollection>
+<incollection mdate="2002-01-03" key="books/sp/patton99/EmburyG99">
+    <author>Suzanne M. Embury</author>
+    <author>Peter M. D. Gray</author>
+    <title>Database Internal Applications.</title>
+    <pages>339-366</pages>
+    <year>1999</year>
+    <booktitle>Active Rules in Database Systems</booktitle>
+    <url>db/books/collections/patton99.html#EmburyG99</url>
+</incollection>
+<incollection mdate="2002-01-03" key="books/sp/patton99/Paton99">
+    <author>Norman W. Paton</author>
+    <title>Summary.</title>
+    <pages>429-434</pages>
+    <year>1999</year>
+    <booktitle>Active Rules in Database Systems</booktitle>
+    <url>db/books/collections/patton99.html#Paton99</url>
+</incollection>
+<incollection mdate="2003-12-17" key="books/sp/patton99/PatonDW99">
+    <author>Norman W. Paton</author>
+    <author>Andrew Dinn</author>
+    <author>M. Howard Williams</author>
+    <title>Optimization</title>
+    <booktitle>Active Rules in Database Systems</booktitle>
+    <publisher>Springer, New York</publisher>
+    <year>1999</year>
+    <pages>69-80</pages>
+    <url>db/books/collections/patton99.html#PattonDW99</url>
+    <cite label="AHW95">journals/tods/AikenHW95</cite>
+    <cite label="BW95">conf/rules/BaralisW95</cite>
+    <cite label="CFPT96">books/mk/widomC96/CeriFPT96</cite>
+    <cite label="CM95">conf/artdb/ColletM95</cite>
+    <cite label="DPW96">...</cite>
+    <cite label="DPWF96">conf/bncod/DinnPWF96</cite>
+    <cite label="GJS92">conf/vldb/GehaniJS92</cite>
+    <cite label="RC88">conf/vldb/RosenthalC88</cite>
+    <cite label="RPS95">conf/rules/ReddiPS95</cite>
+    <cite label="SJGP90">conf/sigmod/StonebrakerJGP90</cite>
+</incollection>
+<incollection mdate="2003-12-17" key="books/sp/patton99/PattonD99">
+    <author>Norman W. Paton</author>
+    <author>Oscar Daz</author>
+    <title>Introduction</title>
+    <booktitle>Active Rules in Database Systems</booktitle>
+    <publisher>Springer, New York</publisher>
+    <year>1999</year>
+    <pages>3-27</pages>
+    <url>db/books/collections/patton99.html#PattonD99</url>
+    <cite label="BBKZ94">conf/rules/BrandingBKZ93</cite>
+    <cite label="BIPG92">conf/dexa/BlancoIPG92</cite>
+    <cite label="CFPT96">books/mk/widomC96/CeriFPT96</cite>
+    <cite label="CKAK94">conf/vldb/ChakravarthyKAK94</cite>
+    <cite label="DBM88">conf/oodbs/DayalBM88</cite>
+    <cite label="DGG95">conf/rules/DittrichGG95</cite>
+    <cite label="FD95">conf/rules/FernandezD95</cite>
+    <cite label="GD94">conf/rules/GatziuD93</cite>
+    <cite label="GJS92">conf/sigmod/GehaniJS92</cite>
+    <cite label="Han92">conf/sigmod/Hanson92</cite>
+    <cite label="HW93">...</cite>
+    <cite label="NI94">conf/rules/NaqviI93</cite>
+    <cite label="PD98">...</cite>
+    <cite label="PDW+94">conf/rules/PatonDWCDJ93</cite>
+    <cite label="SJGP90">conf/sigmod/StonebrakerJGP90</cite>
+    <cite label="WC96">books/mk/WidomC96</cite>
+    <cite label="Win84">...</cite>
+</incollection>
+<incollection mdate="2004-03-30" key="books/sp/staabS2004/CarrKHBG04">
+    <author>Les Carr</author>
+    <author>Simon Kampa</author>
+    <author>Wendy Hall</author>
+    <author>Sean Bechhofer</author>
+    <author>Carole A. Goble</author>
+    <title>Ontologies and Hypertext.</title>
+    <pages>517-532</pages>
+    <crossref>books/sp/StaabS04</crossref>
+    <year>2004</year>
+    <booktitle>Handbook on Ontologies</booktitle>
+    <url>db/books/collections/StaabS2004.html#CarrKHBG04</url>
+</incollection>
+<incollection mdate="2004-03-30" key="books/sp/staabS2004/DoanMDH04">
+    <author>AnHai Doan</author>
+    <author>Jayant Madhavan</author>
+    <author>Pedro Domingos</author>
+    <author>Alon Y. Halevy</author>
+    <title>Ontology Matching: A Machine Learning Approach.</title>
+    <pages>385-404</pages>
+    <crossref>books/sp/StaabS04</crossref>
+    <year>2004</year>
+    <booktitle>Handbook on Ontologies</booktitle>
+    <url>db/books/collections/StaabS2004.html#DoanMDH04</url>
+</incollection>
+<incollection mdate="2004-11-10" key="books/sp/staabS2004/StevensWLG04">
+    <author>Robert Stevens</author>
+    <author>Chris Wroe</author>
+    <author>Phillip W. Lord</author>
+    <author>Carole A. Goble</author>
+    <title>Ontologies in Bioinformatics.</title>
+    <pages>635-658</pages>
+    <crossref>books/sp/StaabS04</crossref>
+    <year>2004</year>
+    <booktitle>Handbook on Ontologies</booktitle>
+    <url>db/books/collections/StaabS2004.html#StevensWLG04</url>
+</incollection>
+<inproceedings mdate="2012-06-08" key="conf/3dui/SherstyukVJ08">
+    <author>Andrei Sherstyuk</author>
+    <author>Dale Vincent</author>
+    <author>Caroline Jay</author>
+    <title>Poster: Sliding Viewport for Head Mounted Displays in Interactive Environments.</title>
+    <pages>135-136</pages>
+    <year>2008</year>
+    <booktitle>3DUI</booktitle>
+    <ee>http://doi.ieeecomputersociety.org/10.1109/3DUI.2008.4476604</ee>
+    <crossref>conf/3dui/2008</crossref>
+    <url>db/conf/3dui/3dui2008.html#SherstyukVJ08</url>
+</inproceedings>
+<inproceedings mdate="2005-11-22" key="conf/IEEEcit/ShaoIE05">
+    <author>Jianhua Shao</author>
+    <author>Yahya Ibrahim</author>
+    <author>Suzanne M. Embury</author>
+    <title>An Approach to Tracking Data Derivation in Information Systems.</title>
+    <pages>65-69</pages>
+    <year>2005</year>
+    <crossref>conf/IEEEcit/2005</crossref>
+    <booktitle>CIT</booktitle>
+    <ee>http://doi.ieeecomputersociety.org/10.1109/CIT.2005.63</ee>
+    <url>db/conf/IEEEcit/IEEEcit2005.html#ShaoIE05</url>
+</inproceedings>
+<inproceedings mdate="2007-01-09" key="conf/IEEEscc/BelhajjameE06">
+    <author>Khalid Belhajjame</author>
+    <author>Suzanne M. Embury</author>
+    <title>A Model-Driven Approach to Service Composition in Virtual Enterprises.</title>
+    <pages>214-221</pages>
+    <year>2006</year>
+    <crossref>conf/IEEEscc/2006</crossref>
+    <booktitle>IEEE SCC</booktitle>
+    <ee>http://doi.ieeecomputersociety.org/10.1109/SCC.2006.11</ee>
+    <url>db/conf/IEEEscc/scc2006.html#BelhajjameE06</url>
+</inproceedings>
+<inproceedings mdate="2005-11-30" key="conf/IEEEscc/BelhajjameVC05">
+    <author>Khalid Belhajjame</author>
+    <author>Genoveva Vargas-Solar</author>
+    <author>Christine Collet</author>
+    <title>Pyros - an environment for building and orchestrating open services.</title>
+    <pages>155-164</pages>
+    <year>2005</year>
+    <crossref>conf/IEEEscc/2005</crossref>
+    <booktitle>IEEE SCC</booktitle>
+    <ee>http://doi.ieeecomputersociety.org/10.1109/SCC.2005.74</ee>
+    <url>db/conf/IEEEscc/scc2005.html#BelhajjameVC05</url>
+</inproceedings>
+<inproceedings mdate="2011-10-20" key="conf/IEEEscc/TanZMFRG11">
+    <author>Wei Tan</author>
+    <author>Jia Zhang</author>
+    <author>Ravi K. Madduri</author>
+    <author>Ian T. Foster</author>
+    <author>David De Roure</author>
+    <author>Carole A. Goble</author>
+    <title>ServiceMap: Providing Map and GPS Assistance to Service Composition in Bioinformatics.</title>
+    <pages>632-639</pages>
+    <year>2011</year>
+    <booktitle>IEEE SCC</booktitle>
+    <ee>http://doi.ieeecomputersociety.org/10.1109/SCC.2011.122</ee>
+    <crossref>conf/IEEEscc/2011</crossref>
+    <url>db/conf/IEEEscc/scc2011.html#TanZMFRG11</url>
+</inproceedings>
+<inproceedings mdate="2012-10-08" key="conf/IEEEscc/YaoTNCZRG12">
+    <author>Jinhui Yao</author>
+    <author>Wei Tan</author>
+    <author>Surya Nepal</author>
+    <author>Shiping Chen</author>
+    <author>Jia Zhang</author>
+    <author>David De Roure</author>
+    <author>Carole A. Goble</author>
+    <title>ReputationNet: A Reputation Engine to Enhance ServiceMap by Recommending Trusted Services.</title>
+    <pages>454-461</pages>
+    <year>2012</year>
+    <booktitle>IEEE SCC</booktitle>
+    <ee>http://dx.doi.org/10.1109/SCC.2012.73</ee>
+    <crossref>conf/IEEEscc/2012</crossref>
+    <url>db/conf/IEEEscc/scc2012.html#YaoTNCZRG12</url>
+</inproceedings>
+<inproceedings mdate="2012-03-19" key="conf/aaai/HullZBHSS06">
+    <author>Duncan Hull</author>
+    <author>Evgeny Zolin</author>
+    <author>Andrey Bovykin</author>
+    <author>Ian Horrocks</author>
+    <author>Ulrike Sattler</author>
+    <author>Robert Stevens</author>
+    <title>Deciding Semantic Matching of Stateless Services.</title>
+    <year>2006</year>
+    <crossref>conf/aaai/2006</crossref>
+    <booktitle>AAAI</booktitle>
+    <url>db/conf/aaai/aaai2006.html#HullZBHSS06</url>
+    <ee>http://www.aaai.org/Library/AAAI/2006/aaai06-207.php</ee>
+    <pages>1319-1324</pages>
+</inproceedings>
+</dblp>

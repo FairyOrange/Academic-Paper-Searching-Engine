@@ -1,0 +1,103 @@
+<dblp>
+<inproceedings>
+    <author>author1</author>
+    <title>title1</title>
+    <year>2000</year>
+</inproceedings>
+<inproceedings>
+    <author>author1</author>
+    <title>title2</title>
+    <year>2000</year>
+</inproceedings>
+<article>
+    <author>author1</author>
+    <title>title1</title>
+    <journal>journal1</journal>
+    <year>2000</year>
+</article>
+<article>
+    <author>author1</author>
+    <title>title1</title>
+    <journal>journal2</journal>
+    <year>2000</year>
+</article>
+<article>
+    <author>author1</author>
+    <title>title1</title>
+    <journal>journal1</journal>
+    <year>2001</year>
+</article>
+<article>
+    <author>author1</author>
+    <title>title1</title>
+    <journal>journal2</journal>
+    <year>2001</year>
+</article>
+<book>
+    <author>author1</author>
+    <title>title1</title>
+    <booktile>book1</booktile>
+    <year>2000</year>
+</book>
+<book>
+    <author>author1</author>
+    <title>title2</title>
+    <booktile>book2</booktile>
+    <year>2000</year>
+</book>
+<book>
+    <author>author1</author>
+    <title>title3</title>
+    <booktile>book3</booktile>
+    <year>2000</year>
+</book>
+<book>
+    <author>author1</author>
+    <title>title4</title>
+    <booktile>book4</booktile>
+    <year>2001</year>
+</book>
+
+<incollection>
+    <author>author1</author>
+    <title>title4</title>
+    <booktile>book4</booktile>
+    <pages>1-20</pages>
+    <year>2001</year>
+</incollection>
+<incollection>
+    <author>author1</author>
+    <title>title5</title>
+    <booktile>book5</booktile>
+    <pages>1-20</pages>
+    <year>2002</year>
+</incollection>
+
+<book>
+    <author>author2</author>
+    <title>title4</title>
+    <booktile>book4</booktile>
+    <year>2001</year>
+</book>
+<incollection>
+    <author>author2</author>
+    <title>title4</title>
+    <booktile>book4</booktile>
+    <pages>1-20</pages>
+    <year>2001</year>
+</incollection>
+<incollection>
+    <author>author2</author>
+    <title>title5</title>
+    <booktile>book5</booktile>
+    <pages>1-20</pages>
+    <year>2001</year>
+</incollection>
+<incollection>
+    <author>author2</author>
+    <title>title6</title>
+    <booktile>book6</booktile>
+    <pages>1-20</pages>
+    <year>2001</year>
+</incollection>
+</dblp>

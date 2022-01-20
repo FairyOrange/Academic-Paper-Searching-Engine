@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+
+  <head>
+    <title>{% block title %}{% endblock %}</title>
+    <script type="text/javascript" src="{{url_for('static', filename='sorttable.js') }}"></script> <!--import sorttable.js-->
+  </head>
+
+  <body>
+    <div id="page">
+      <div id="header">
+        <h1>COMP62521:</h1>
+        {%for filename in args.dataset%}
+        <h1>{{ filename }}</h1>
+        {% endfor %}
+        <div id="navigation">
+          <a href="/">Home</a>
+        </div>
+      </div>
+
+      <div id="content">
+        {% block content %}{% endblock %}
+      </div>
+    </div>
+  </body>
+</html>

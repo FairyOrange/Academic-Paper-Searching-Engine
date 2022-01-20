@@ -1,0 +1,63 @@
+{% extends "base.html" %}
+{% block title %}{{ args.title }}{% endblock %}
+{% block content %}
+
+<h1>{{ args.title }}</h1>
+
+<form name="input" action="/authorappearance" method="GET">
+  <div>
+    Name of author: <input type="search" placeholder="" name="author_name" id="content">
+    <button type="submit">Search</button>
+  </div>
+</form>
+
+<br \>
+
+{% for p in range(args.num_pub_types) %}
+    <button onclick="hide_show({{p}}, {{args.num_pub_types}})">Show/Hide {{ args.data[0][p] }}</button>
+{% endfor %}
+
+{% for p in range(args.num_pub_types) %}
+    <div id="pub_{{p}}" style="display:none">
+        <table class="sortable">
+            <caption>{{ args.data[0][p] }}</caption>
+            <thead>
+                <tr>
+                    {% for column in args.data[1] %}
+                        <th>{{ column }}</th>
+                    {% endfor %}
+                </tr>
+           	</thead>
+    
+            <tbody>
+                {% for row in args.data[2][p] %}
+                    <tr>
+                    <td><a href="{{ url_for('post_author', authorname=row[0]) }}">{{ row[0] }}</a></td>
+                    {% for data_item in row[1:] %}
+                        <td>{{ data_item }}</td>
+                    {% endfor %}
+                    </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+{% endfor %}
+
+<script>
+function hide_show(index, max_index) {
+    for (i = 0; i < max_index; i++) {
+        if (i != index) {
+            var hide_div = document.getElementById("pub_" + i);
+            hide_div.style.display = "none";
+        }
+    }
+
+    var div = document.getElementById("pub_" + index);
+    if (div.style.display === "none") {
+        div.style.display = "block";
+    } else {
+        div.style.display = "none";
+    }
+}
+</script>
+{% endblock %}

@@ -1,0 +1,52 @@
+{% extends "base.html" %}
+{% block title %}{{ args.title }}{% endblock %}
+{% block content %}
+
+<h1>{{ args.title }}</h1>
+
+<h2>
+    <div>
+        Author Name:
+        {{ args.authorname }}
+    </div> 
+</h2>
+
+<table border="1" class="sortable">
+  <thead>
+    <tr>
+    {% for column in args.data[0] %}
+      <th>{{ column }}</th>
+    {% endfor %}
+    </tr>
+  </thead>
+
+
+  <tbody>
+  {% for row in args.data[1] %}
+    <td>{{ row }}</td>
+  {% endfor %}
+  </tbody>
+</table>
+
+<br/>
+<br/>
+
+<table border = "1">
+  <thead>
+    <tr>
+    {% for column in args.ex_info[0] %}
+      <th>{{ column }}</th>
+    {% endfor %}
+    </tr>
+  </thead>
+
+  <tbody>
+    <td>{{ args.ex_info[1][0] }}</td>
+    <td>
+      {% for name in args.ex_info[1][1] %}
+      {{ name }}<br/>
+      {% endfor %}
+    </td>
+  </tbody>
+</table>
+{% endblock %}
